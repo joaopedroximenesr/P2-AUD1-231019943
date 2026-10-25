@@ -1,0 +1,189 @@
+﻿DT_REFER,VERSAO,DT_INI_EXERC,DT_FIM_EXERC,ORDEM_EXERC,CD_CONTA,DS_CONTA,ESCALA_MOEDA,VL_CONTA
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01,Caixa Líquido Atividades Operacionais,MIL,-76839.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01,Caixa Líquido Atividades Operacionais,MIL,-95029.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01,Caixa Gerado nas Operações,MIL,1257.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01,Caixa Gerado nas Operações,MIL,8986.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.01,Lucro líquido do exercício (antes dos impostos),MIL,2076180.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.01,Lucro líquido do exercício (antes dos impostos),MIL,2413780.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.02,Depreciação e amortização,MIL,7.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.02,Depreciação e amortização,MIL,5.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.03,Receita financeira,MIL,72255.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.03,Receita financeira,MIL,-8443.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.04,Despesa financeira,MIL,-34591.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.04,Despesa financeira,MIL,27936.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.05,Remuneração baseada em ações,MIL,10218.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.05,Remuneração baseada em ações,MIL,18653.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.06,Resultado de equivalência patrimonial,MIL,-2122782.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.06,Resultado de equivalência patrimonial,MIL,-2442571.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.07,Provisão para impairment,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.07,Provisão para impairment,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.08,Perda/baixa de ativos não circulantes,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.08,Perda/baixa de ativos não circulantes,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.09,Provisão para contingências/perdas,MIL,-30.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.09,Provisão para contingências/perdas,MIL,-374.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.01.10,Reclassificação de ajuste acumulado de conversão (CTA),MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.01.10,Reclassificação de ajuste acumulado de conversão (CTA),MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02,Variações nos Ativos e Passivos,MIL,-78083.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02,Variações nos Ativos e Passivos,MIL,-104003.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.01,Tributos a recuperar,MIL,1383.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.01,Tributos a recuperar,MIL,202.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.02,Despesas antecipadas,MIL,9.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.02,Despesas antecipadas,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.03,Adiantamento a fornecedores,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.03,Adiantamento a fornecedores,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.04,Fornecedores,MIL,2397.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.04,Fornecedores,MIL,-2297.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.05,Obrigações trabalhistas,MIL,-9266.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.05,Obrigações trabalhistas,MIL,-60861.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.06,Tributos e contribuições sociais,MIL,-424.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.06,Tributos e contribuições sociais,MIL,-168.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.07,Partes relacionadas,MIL,-72182.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.07,Partes relacionadas,MIL,-40879.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.08,Imposto de renda e contribuição social pagos,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.08,Imposto de renda e contribuição social pagos,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.09,Contas a receber,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.09,Contas a receber,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.10,Contingências,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.10,Contingências,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.02.11,Depósitos e cauções,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.02.11,Depósitos e cauções,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.03,Outros,MIL,-13.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.03,Outros,MIL,-12.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.03.01,Outros créditos,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.03.01,Outros créditos,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.01.03.02,Outras obrigações,MIL,-13.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.01.03.02,Outras obrigações,MIL,-12.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02,Caixa Líquido Atividades de Investimento,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02,Caixa Líquido Atividades de Investimento,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.01,(Aplicação) resgate em títulos e valores mobiliários,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.01,(Aplicação) resgate em títulos e valores mobiliários,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.02,Compra de ativo imobilizado,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.02,Compra de ativo imobilizado,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.03,Compra de ativo intangível,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.03,Compra de ativo intangível,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.04,Integralização de capital em controlada,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.04,Integralização de capital em controlada,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.05,Adiantamento para futuro aumento de capital,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.05,Adiantamento para futuro aumento de capital,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.06,Recompra de ações,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.06,Recompra de ações,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.07,Depósito em garantia/judicial,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.07,Depósito em garantia/judicial,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.08,Venda de participação societária,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.08,Venda de participação societária,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.02.09,(Compra) venda de ações da própria Companhia,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.02.09,(Compra) venda de ações da própria Companhia,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.03,Caixa Líquido Atividades de Financiamento,MIL,98961.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.03,Caixa Líquido Atividades de Financiamento,MIL,91033.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.03.01,Debêntures conversíveis em ações,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.03.01,Debêntures conversíveis em ações,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.03.02,Gastos com emissão de ações,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.03.02,Gastos com emissão de ações,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.03.03,Operações com derivativos,MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.03.03,Operações com derivativos,MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.03.04,Integralização de capital,MIL,98961.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.03.04,Integralização de capital,MIL,91033.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.03.05,(Compra) venda de ações da própria Companhia (mantidas em tesouraria),MIL,0.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.03.05,(Compra) venda de ações da própria Companhia (mantidas em tesouraria),MIL,0.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.04,Variação Cambial s/ Caixa e Equivalentes,MIL,-963.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.04,Variação Cambial s/ Caixa e Equivalentes,MIL,-39.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.05,Aumento (Redução) de Caixa e Equivalentes,MIL,21159.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.05,Aumento (Redução) de Caixa e Equivalentes,MIL,-4035.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.05.01,Saldo Inicial de Caixa e Equivalentes,MIL,10351.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.05.01,Saldo Inicial de Caixa e Equivalentes,MIL,5466.0
+2026-03-31,1,2025-01-01,2025-03-31,PENÚLTIMO,6.05.02,Saldo Final de Caixa e Equivalentes,MIL,31510.0
+2026-03-31,1,2026-01-01,2026-03-31,ÚLTIMO,6.05.02,Saldo Final de Caixa e Equivalentes,MIL,1431.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01,Caixa Líquido Atividades Operacionais,MIL,-104003.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01,Caixa Líquido Atividades Operacionais,MIL,-94135.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01,Caixa Gerado nas Operações,MIL,24415.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01,Caixa Gerado nas Operações,MIL,30340.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.01,Lucro líquido do exercício (antes dos impostos),MIL,2759757.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.01,Lucro líquido do exercício (antes dos impostos),MIL,4373849.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.02,Depreciação e amortização,MIL,13.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.02,Depreciação e amortização,MIL,10.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.03,Receita financeira,MIL,-48158.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.03,Receita financeira,MIL,-17370.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.04,Despesa financeira,MIL,114926.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.04,Despesa financeira,MIL,75785.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.05,Remuneração baseada em ações,MIL,35325.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.05,Remuneração baseada em ações,MIL,54874.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.06,Resultado de equivalência patrimonial,MIL,-2837398.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.06,Resultado de equivalência patrimonial,MIL,-4456928.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.07,Provisão para impairment,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.07,Provisão para impairment,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.08,Perda/baixa de ativos não circulantes,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.08,Perda/baixa de ativos não circulantes,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.09,Provisão para contingências/perdas,MIL,-50.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.09,Provisão para contingências/perdas,MIL,120.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.01.10,Ajuste de equivalência patrimonial,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.01.10,Ajuste de equivalência patrimonial,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02,Variações nos Ativos e Passivos,MIL,-128391.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02,Variações nos Ativos e Passivos,MIL,-124517.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.01,Tributos a recuperar,MIL,261.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.01,Tributos a recuperar,MIL,2290.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.02,Despesas antecipadas,MIL,70.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.02,Despesas antecipadas,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.03,Adiantamento a fornecedores,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.03,Adiantamento a fornecedores,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.04,Fornecedores,MIL,-357.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.04,Fornecedores,MIL,2151.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.05,Obrigações trabalhistas,MIL,24743.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.05,Obrigações trabalhistas,MIL,-72980.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.06,Tributos e contribuições sociais,MIL,-371.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.06,Tributos e contribuições sociais,MIL,-515.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.07,Partes relacionadas,MIL,-152739.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.07,Partes relacionadas,MIL,-55463.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.08,Imposto de renda e contribuição social pagos,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.08,Imposto de renda e contribuição social pagos,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.09,Contas a receber,MIL,2.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.09,Contas a receber,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.10,Contingências,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.10,Contingências,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.02.11,Depósios e cauções,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.02.11,Depósios e cauções,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.03,Outros,MIL,-27.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.03,Outros,MIL,42.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.03.01,Outros créditos,MIL,-7.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.03.01,Outros créditos,MIL,-2.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.01.03.02,Outras obrigações,MIL,-20.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.01.03.02,Outras obrigações,MIL,44.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02,Caixa Líquido Atividades de Investimento,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02,Caixa Líquido Atividades de Investimento,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.01,(Aplicação) resgate em títulos e valores mobiliários,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.01,(Aplicação) resgate em títulos e valores mobiliários,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.02,Compra de ativo imobilizado,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.02,Compra de ativo imobilizado,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.03,Compra de ativo intangível,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.03,Compra de ativo intangível,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.04,Integralização de capital em controlada,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.04,Integralização de capital em controlada,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.05,Adiantamento para futuro aumento de capital,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.05,Adiantamento para futuro aumento de capital,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.06,Recompra de ações,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.06,Recompra de ações,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.07,Depósito em garantia/judicial,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.07,Depósito em garantia/judicial,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.08,Venda de participação societária,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.08,Venda de participação societária,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.02.09,(Compra) venda de ações da própria Companhia,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.02.09,(Compra) venda de ações da própria Companhia,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.03,Caixa Líquido Atividades de Financiamento,MIL,98961.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.03,Caixa Líquido Atividades de Financiamento,MIL,91033.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.03.01,Debêntures conversíveis em ações,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.03.01,Debêntures conversíveis em ações,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.03.02,Gastos com emissão de ações,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.03.02,Gastos com emissão de ações,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.03.03,Operações com derivativos,MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.03.03,Operações com derivativos,MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.03.04,Integralização de capital,MIL,98961.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.03.04,Integralização de capital,MIL,91033.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.03.05,(Compra) venda de ações da própria Companhia (mantidas em tesouraria),MIL,0.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.03.05,(Compra) venda de ações da própria Companhia (mantidas em tesouraria),MIL,0.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.04,Variação Cambial s/ Caixa e Equivalentes,MIL,-342.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.04,Variação Cambial s/ Caixa e Equivalentes,MIL,-324.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.05,Aumento (Redução) de Caixa e Equivalentes,MIL,-5384.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.05,Aumento (Redução) de Caixa e Equivalentes,MIL,-3426.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.05.01,Saldo Inicial de Caixa e Equivalentes,MIL,10351.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.05.01,Saldo Inicial de Caixa e Equivalentes,MIL,5466.0
+2026-06-30,1,2025-01-01,2025-06-30,PENÚLTIMO,6.05.02,Saldo Final de Caixa e Equivalentes,MIL,4967.0
+2026-06-30,1,2026-01-01,2026-06-30,ÚLTIMO,6.05.02,Saldo Final de Caixa e Equivalentes,MIL,2040.0

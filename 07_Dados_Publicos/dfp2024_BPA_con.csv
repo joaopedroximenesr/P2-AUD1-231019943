@@ -1,0 +1,133 @@
+﻿DT_REFER,VERSAO,DT_FIM_EXERC,ORDEM_EXERC,CD_CONTA,DS_CONTA,ESCALA_MOEDA,VL_CONTA
+2024-12-31,1,2023-12-31,PENÚLTIMO,1,Ativo Total,MIL,28310932.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1,Ativo Total,MIL,55746165.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01,Ativo Circulante,MIL,5294874.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01,Ativo Circulante,MIL,7952572.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.01,Caixa e Equivalentes de Caixa,MIL,2335403.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.01,Caixa e Equivalentes de Caixa,MIL,3993359.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.02,Aplicações Financeiras,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.02,Aplicações Financeiras,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.02.01.01,Títulos para Negociação,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.02.01.01,Títulos para Negociação,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.03,Contas a Receber,MIL,1743491.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.03,Contas a Receber,MIL,931770.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.03.01,Clientes,MIL,1743491.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.03.01,Clientes,MIL,931770.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.03.02,Outras Contas a Receber,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.03.02,Outras Contas a Receber,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.04,Estoques,MIL,651651.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.04,Estoques,MIL,1204744.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.05,Ativos Biológicos,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.05,Ativos Biológicos,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.06,Tributos a Recuperar,MIL,347658.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.06,Tributos a Recuperar,MIL,1203464.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.06.01,Tributos Correntes a Recuperar,MIL,347658.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.06.01,Tributos Correntes a Recuperar,MIL,1203464.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.07,Despesas Antecipadas,MIL,22129.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.07,Despesas Antecipadas,MIL,32832.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08,Outros Ativos Circulantes,MIL,194542.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08,Outros Ativos Circulantes,MIL,586403.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.03,Outros,MIL,194542.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.03,Outros,MIL,586403.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.03.01,Adiantamento a fornecedores,MIL,100227.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.03.01,Adiantamento a fornecedores,MIL,584337.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.03.02,Instrumentos financeiros,MIL,358.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.03.02,Instrumentos financeiros,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.03.03,Outros,MIL,769.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.03.03,Outros,MIL,2066.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.03.04,Adiantamentos a parceiros,MIL,93188.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.03.04,Adiantamentos a parceiros,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.01.08.03.05,Caixa Restrito,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.01.08.03.05,Caixa Restrito,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02,Ativo Não Circulante,MIL,23016058.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02,Ativo Não Circulante,MIL,47793593.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01,Ativo Realizável a Longo Prazo,MIL,631701.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01,Ativo Realizável a Longo Prazo,MIL,5993622.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.04,Contas a Receber,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.04,Contas a Receber,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.04.01,Clientes,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.04.01,Clientes,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.04.02,Outras Contas a Receber,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.04.02,Outras Contas a Receber,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.05,Estoques,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.05,Estoques,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.06,Ativos Biológicos,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.06,Ativos Biológicos,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.07,Tributos Diferidos,MIL,516582.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.07,Tributos Diferidos,MIL,5636399.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,516582.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,5636399.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.08,Despesas Antecipadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.08,Despesas Antecipadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.09.01,Créditos com Coligadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.09.01,Créditos com Coligadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.09.03,Créditos com Controladores,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.09.03,Créditos com Controladores,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10,Outros Ativos Não Circulantes,MIL,115119.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10,Outros Ativos Não Circulantes,MIL,357223.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.03,Garantias e compromissos,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.03,Garantias e compromissos,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.04,Adiantamento a fornecedores,MIL,225.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.04,Adiantamento a fornecedores,MIL,881.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.05,Depósitos judiciais,MIL,29971.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.05,Depósitos judiciais,MIL,171082.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.06,Tributos a recuperar,MIL,4225.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.06,Tributos a recuperar,MIL,185260.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.01.10.07,Marcação a mercado dos swaps das debêntures,MIL,80698.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.01.10.07,Marcação a mercado dos swaps das debêntures,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.02,Investimentos,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.02,Investimentos,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.02.01,Participações Societárias,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.02.01,Participações Societárias,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.02.01.01,Participações em Coligadas,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.02.01.01,Participações em Coligadas,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.02.01.05,Outros Investimentos,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.02.01.05,Outros Investimentos,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.02.02,Propriedades para Investimento,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.02.02,Propriedades para Investimento,MIL,0.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.03,Imobilizado,MIL,11469479.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.03,Imobilizado,MIL,25297509.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.03.01,Imobilizado em Operação,MIL,5635846.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.03.01,Imobilizado em Operação,MIL,15646101.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.03.02,Direito de Uso em Arrendamento,MIL,2044361.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.03.02,Direito de Uso em Arrendamento,MIL,2421249.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.03.03,Imobilizado em Andamento,MIL,3789272.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.03.03,Imobilizado em Andamento,MIL,7230159.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.04,Intangível,MIL,10914878.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.04,Intangível,MIL,16502462.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.04.01,Intangíveis,MIL,10914878.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.04.01,Intangíveis,MIL,16502462.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.04.01.01,Contrato de Concessão,MIL,10914878.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.04.01.01,Contrato de Concessão,MIL,16502462.0
+2024-12-31,1,2023-12-31,PENÚLTIMO,1.02.04.02,Goodwill,MIL,0.0
+2024-12-31,1,2024-12-31,ÚLTIMO,1.02.04.02,Goodwill,MIL,0.0

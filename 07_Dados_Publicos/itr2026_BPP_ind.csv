@@ -1,0 +1,465 @@
+﻿DT_REFER,VERSAO,DT_FIM_EXERC,ORDEM_EXERC,CD_CONTA,DS_CONTA,ESCALA_MOEDA,VL_CONTA
+2026-03-31,1,2025-12-31,PENÚLTIMO,2,Passivo Total,MIL,26335452.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2,Passivo Total,MIL,27122729.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01,Passivo Circulante,MIL,106596.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01,Passivo Circulante,MIL,48618.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01,Obrigações Sociais e Trabalhistas,MIL,103461.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01,Obrigações Sociais e Trabalhistas,MIL,47879.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01.01,Obrigações Sociais,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01.01,Obrigações Sociais,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01.02,Obrigações Trabalhistas,MIL,103461.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01.02,Obrigações Trabalhistas,MIL,47879.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01.02.01,INSS,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01.02.01,INSS,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01.02.02,FGTS,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01.02.02,FGTS,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01.02.03,Provisões Trabalhistas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01.02.03,Provisões Trabalhistas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.01.02.04,Outras Obrigações Trabalhistas,MIL,103461.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.01.02.04,Outras Obrigações Trabalhistas,MIL,47879.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.02,Fornecedores,MIL,2781.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.02,Fornecedores,MIL,445.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.02.01,Fornecedores Nacionais,MIL,2781.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.02.01,Fornecedores Nacionais,MIL,408.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.02.02,Fornecedores Estrangeiros,MIL,37.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03,Obrigações Fiscais,MIL,354.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03,Obrigações Fiscais,MIL,294.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03.01,Obrigações Fiscais Federais,MIL,354.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03.01,Obrigações Fiscais Federais,MIL,294.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03.01.02,Pis e Cofins,MIL,68.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03.01.02,Pis e Cofins,MIL,125.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03.01.20,Outros,MIL,286.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03.01.20,Outros,MIL,169.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.04,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.04,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.04.01,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.04.01,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.04.01.01,Em Moeda Nacional,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.04.01.01,Em Moeda Nacional,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.04.02,Debêntures,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.04.02,Debêntures,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.04.03,Financiamento por Arrendamento,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.04.03,Financiamento por Arrendamento,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05,Outras Obrigações,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05,Outras Obrigações,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.01.01,Débitos com Coligadas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.01.01,Débitos com Coligadas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.01.02,Débitos com Controladas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.01.02,Débitos com Controladas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.01.03,Débitos com Controladores,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.01.03,Débitos com Controladores,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02,Outros,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02,Outros,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02.04,Instrumentos Financeiros e Derivativos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02.04,Instrumentos Financeiros e Derivativos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02.05,Gastos com Emissão de Ações a Pagar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02.05,Gastos com Emissão de Ações a Pagar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.05.02.20,Outros,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.05.02.20,Outros,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06,Provisões,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06,Provisões,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.01.01,Provisões Fiscais,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.01.01,Provisões Fiscais,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.01.04,Provisões Cíveis,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.01.04,Provisões Cíveis,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.02,Outras Provisões,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.02,Outras Provisões,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.02.01,Provisões para Garantias,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.02.01,Provisões para Garantias,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02,Passivo Não Circulante,MIL,448975.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02,Passivo Não Circulante,MIL,443538.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.01,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.01,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.01.01,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.01.01,Empréstimos e Financiamentos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.01.01.01,Em Moeda Nacional,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.01.01.01,Em Moeda Nacional,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.01.02,Debêntures,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.01.02,Debêntures,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.01.03,Financiamento por Arrendamento,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.01.03,Financiamento por Arrendamento,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02,Outras Obrigações,MIL,446544.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02,Outras Obrigações,MIL,441395.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.01,Passivos com Partes Relacionadas,MIL,446361.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.01,Passivos com Partes Relacionadas,MIL,441215.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.01.01,Débitos com Coligadas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.01.01,Débitos com Coligadas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.01.02,Débitos com Controladas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.01.02,Débitos com Controladas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.01.03,Débitos com Controladores,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.01.03,Débitos com Controladores,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,446361.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,441215.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.02,Outros,MIL,183.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.02,Outros,MIL,180.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.02.02.03,Outras Obrigações,MIL,183.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.02.02.03,Outras Obrigações,MIL,180.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.03,Tributos Diferidos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.03,Tributos Diferidos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04,Provisões,MIL,2431.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04,Provisões,MIL,2143.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2431.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2143.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.01.01,Provisões Fiscais,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.01.01,Provisões Fiscais,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,2080.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,2143.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.01.04,Provisões Cíveis,MIL,351.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.01.04,Provisões Cíveis,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.02,Outras Provisões,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.02,Outras Provisões,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.02.01,Provisões para Garantias,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.02.01,Provisões para Garantias,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.02.04,Provisões para Perda em Investimento Permanente,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.02.04,Provisões para Perda em Investimento Permanente,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.04.02.05,Provisões Cíveis,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.04.02.05,Provisões Cíveis,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.06.01,Lucros a Apropriar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.06.01,Lucros a Apropriar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.06.02,Receitas a Apropriar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.06.02,Receitas a Apropriar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03,Patrimônio Líquido,MIL,25779881.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03,Patrimônio Líquido,MIL,26630573.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.01,Capital Social Realizado,MIL,15510382.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.01,Capital Social Realizado,MIL,15601415.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02,Reservas de Capital,MIL,-1388256.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02,Reservas de Capital,MIL,-1673105.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.01,Ágio na Emissão de Ações,MIL,-32809.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.01,Ágio na Emissão de Ações,MIL,-32809.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.04,Opções Outorgadas,MIL,548410.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.04,Opções Outorgadas,MIL,567063.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.05,Ações em Tesouraria,MIL,-1905612.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.05,Ações em Tesouraria,MIL,-2209113.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.07,Lucro na venda de Ações em Tesouraria,MIL,29885.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.07,Lucro na venda de Ações em Tesouraria,MIL,29884.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.02.08,Cancelamento de Ações em Tesouraria,MIL,-28130.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.02.08,Cancelamento de Ações em Tesouraria,MIL,-28130.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.03,Reservas de Reavaliação,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.03,Reservas de Reavaliação,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04,Reservas de Lucros,MIL,11354826.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04,Reservas de Lucros,MIL,11354826.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.01,Reserva Legal,MIL,1070772.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.01,Reserva Legal,MIL,1070772.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.02,Reserva Estatutária,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.02,Reserva Estatutária,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.03,Reserva para Contingências,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.03,Reserva para Contingências,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.04,Reserva de Lucros a Realizar,MIL,239.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.04,Reserva de Lucros a Realizar,MIL,239.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.09,Ações em Tesouraria,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.09,Ações em Tesouraria,MIL,0.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.04.10,Reserva de Investimento,MIL,10283815.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.04.10,Reserva de Investimento,MIL,10283815.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.05,Lucros/Prejuízos Acumulados,MIL,2410883.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-450526.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-452775.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.07,Ajustes Acumulados de Conversão,MIL,753455.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.07,Ajustes Acumulados de Conversão,MIL,-610671.0
+2026-03-31,1,2025-12-31,PENÚLTIMO,2.03.08,Outros Resultados Abrangentes,MIL,0.0
+2026-03-31,1,2026-03-31,ÚLTIMO,2.03.08,Outros Resultados Abrangentes,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2,Passivo Total,MIL,26335452.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2,Passivo Total,MIL,28749214.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01,Passivo Circulante,MIL,106596.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01,Passivo Circulante,MIL,35237.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01,Obrigações Sociais e Trabalhistas,MIL,103461.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01,Obrigações Sociais e Trabalhistas,MIL,30769.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01.01,Obrigações Sociais,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01.01,Obrigações Sociais,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01.02,Obrigações Trabalhistas,MIL,103461.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01.02,Obrigações Trabalhistas,MIL,30769.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01.02.01,INSS,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01.02.01,INSS,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01.02.02,FGTS,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01.02.02,FGTS,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01.02.03,Provisões Trabalhistas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01.02.03,Provisões Trabalhistas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.01.02.04,Outras Obrigações Trabalhistas,MIL,103461.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.01.02.04,Outras Obrigações Trabalhistas,MIL,30769.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.02,Fornecedores,MIL,2781.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.02,Fornecedores,MIL,4378.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.02.01,Fornecedores Nacionais,MIL,2781.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.02.01,Fornecedores Nacionais,MIL,711.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.02.02,Fornecedores Estrangeiros,MIL,3667.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03,Obrigações Fiscais,MIL,354.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03,Obrigações Fiscais,MIL,90.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03.01,Obrigações Fiscais Federais,MIL,354.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03.01,Obrigações Fiscais Federais,MIL,90.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03.01.02,Pis e Cofins,MIL,68.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03.01.02,Pis e Cofins,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03.01.20,Outros,MIL,286.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03.01.20,Outros,MIL,90.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.04,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.04,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.04.01,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.04.01,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.04.01.01,Em Moeda Nacional,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.04.01.01,Em Moeda Nacional,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.04.02,Debêntures,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.04.02,Debêntures,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.04.03,Financiamento por Arrendamento,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.04.03,Financiamento por Arrendamento,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05,Outras Obrigações,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05,Outras Obrigações,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.01.01,Débitos com Coligadas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.01.01,Débitos com Coligadas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.01.02,Débitos com Controladas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.01.02,Débitos com Controladas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.01.03,Débitos com Controladores,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.01.03,Débitos com Controladores,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02,Outros,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02,Outros,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02.04,Instrumentos Financeiros e Derivativos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02.04,Instrumentos Financeiros e Derivativos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02.05,Gastos com Emissão de Ações a Pagar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02.05,Gastos com Emissão de Ações a Pagar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.05.02.20,Outros,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.05.02.20,Outros,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06,Provisões,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06,Provisões,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.01.01,Provisões Fiscais,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.01.01,Provisões Fiscais,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.01.04,Provisões Cíveis,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.01.04,Provisões Cíveis,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.02,Outras Provisões,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.02,Outras Provisões,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.02.01,Provisões para Garantias,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.02.01,Provisões para Garantias,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02,Passivo Não Circulante,MIL,448975.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02,Passivo Não Circulante,MIL,499880.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.01,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.01,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.01.01,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.01.01,Empréstimos e Financiamentos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.01.01.01,Em Moeda Nacional,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.01.01.01,Em Moeda Nacional,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.01.02,Debêntures,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.01.02,Debêntures,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.01.03,Financiamento por Arrendamento,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.01.03,Financiamento por Arrendamento,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02,Outras Obrigações,MIL,446544.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02,Outras Obrigações,MIL,497378.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.01,Passivos com Partes Relacionadas,MIL,446361.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.01,Passivos com Partes Relacionadas,MIL,497150.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.01.01,Débitos com Coligadas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.01.01,Débitos com Coligadas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.01.02,Débitos com Controladas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.01.02,Débitos com Controladas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.01.03,Débitos com Controladores,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.01.03,Débitos com Controladores,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,446361.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,497150.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.02,Outros,MIL,183.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.02,Outros,MIL,228.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.02.02.03,Outras Obrigações,MIL,183.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.02.02.03,Outras Obrigações,MIL,228.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.03,Tributos Diferidos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.03,Tributos Diferidos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04,Provisões,MIL,2431.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04,Provisões,MIL,2502.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2431.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2502.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.01.01,Provisões Fiscais,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.01.01,Provisões Fiscais,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,2080.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,2502.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.01.04,Provisões Cíveis,MIL,351.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.01.04,Provisões Cíveis,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.02,Outras Provisões,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.02,Outras Provisões,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.02.01,Provisões para Garantias,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.02.01,Provisões para Garantias,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.02.04,Provisões para Perda em Investimento Permanente,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.02.04,Provisões para Perda em Investimento Permanente,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.04.02.05,Provisões Cíveis,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.04.02.05,Provisões Cíveis,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.06.01,Lucros a Apropriar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.06.01,Lucros a Apropriar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.06.02,Receitas a Apropriar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.06.02,Receitas a Apropriar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03,Patrimônio Líquido,MIL,25779881.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03,Patrimônio Líquido,MIL,28214097.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.01,Capital Social Realizado,MIL,15510382.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.01,Capital Social Realizado,MIL,15601415.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02,Reservas de Capital,MIL,-1388256.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02,Reservas de Capital,MIL,-2209604.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.01,Ágio na Emissão de Ações,MIL,-32809.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.01,Ágio na Emissão de Ações,MIL,-32809.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.04,Opções Outorgadas,MIL,548410.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.04,Opções Outorgadas,MIL,603283.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.05,Ações em Tesouraria,MIL,-1905612.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.05,Ações em Tesouraria,MIL,-2781833.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.07,Lucro na venda de Ações em Tesouraria,MIL,29885.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.07,Lucro na venda de Ações em Tesouraria,MIL,29885.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.02.08,Cancelamento de Ações em Tesouraria,MIL,-28130.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.02.08,Cancelamento de Ações em Tesouraria,MIL,-28130.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.03,Reservas de Reavaliação,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.03,Reservas de Reavaliação,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04,Reservas de Lucros,MIL,11354826.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04,Reservas de Lucros,MIL,11354826.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.01,Reserva Legal,MIL,1070772.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.01,Reserva Legal,MIL,1070772.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.02,Reserva Estatutária,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.02,Reserva Estatutária,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.03,Reserva para Contingências,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.03,Reserva para Contingências,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.04,Reserva de Lucros a Realizar,MIL,239.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.04,Reserva de Lucros a Realizar,MIL,239.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.09,Ações em Tesouraria,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.09,Ações em Tesouraria,MIL,0.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.04.10,Reserva de Investimento,MIL,10283815.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.04.10,Reserva de Investimento,MIL,10283815.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.05,Lucros/Prejuízos Acumulados,MIL,4370747.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-450526.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-127884.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.07,Ajustes Acumulados de Conversão,MIL,753455.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.07,Ajustes Acumulados de Conversão,MIL,-775403.0
+2026-06-30,1,2025-12-31,PENÚLTIMO,2.03.08,Outros Resultados Abrangentes,MIL,0.0
+2026-06-30,1,2026-06-30,ÚLTIMO,2.03.08,Outros Resultados Abrangentes,MIL,0.0

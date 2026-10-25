@@ -1,0 +1,137 @@
+﻿DT_REFER,VERSAO,DT_INI_EXERC,DT_FIM_EXERC,ORDEM_EXERC,CD_CONTA,DS_CONTA,ESCALA_MOEDA,VL_CONTA
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01,Caixa Líquido Atividades Operacionais,MIL,9669485.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01,Caixa Líquido Atividades Operacionais,MIL,8176080.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01,Caixa Gerado nas Operações,MIL,9684712.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01,Caixa Gerado nas Operações,MIL,7400403.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.01,Lucro do exercício,MIL,6361119.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.01,Lucro do exercício,MIL,-232613.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.02,Depreciação e amortização,MIL,2494296.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.02,Depreciação e amortização,MIL,5855918.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.03,Receita financeira,MIL,-5757855.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.03,Receita financeira,MIL,-8007171.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.04,Despesa financeira,MIL,6733615.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.04,Despesa financeira,MIL,9933941.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.05,Remuneração baseada em ações,MIL,70870.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.05,Remuneração baseada em ações,MIL,70762.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.06,Resultado de equivalência patrimonial,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.06,Resultado de equivalência patrimonial,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.07,Baixa de poço seco,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.07,Baixa de poço seco,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.08,Outras receitas,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.08,Outras receitas,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.09,Provisão de Impairment,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.09,Provisão de Impairment,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.10,Ganho na aquisição de ativos permanentes,MIL,-68409.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.10,Ganho na aquisição de ativos permanentes,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.11,Perda/Baixa de ativos fixos,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.11,Perda/Baixa de ativos fixos,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.12,Provisão para contingências/perdas,MIL,-90512.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.12,Provisão para contingências/perdas,MIL,-41689.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.13,Reclassificação de ajuste acumulado de conversão (CTA),MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.13,Reclassificação de ajuste acumulado de conversão (CTA),MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.14,Provisão de gastos com P&D,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.14,Provisão de gastos com P&D,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.15,Redução da provisão de abandono,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.15,Redução da provisão de abandono,MIL,-178745.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.16,Ajuste de depreciação do Campo de Frade D&M,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.16,Ajuste de depreciação do Campo de Frade D&M,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.17,Ganho na alienação de ativos mantidos para a venda,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.17,Ganho na alienação de ativos mantidos para a venda,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.01.18,Ganho por compra vantajosa,MIL,-58412.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.01.18,Ganho por compra vantajosa,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02,Variações nos Ativos e Passivos,MIL,-93712.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02,Variações nos Ativos e Passivos,MIL,698362.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.02,Contas a receber,MIL,1321427.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.02,Contas a receber,MIL,-872444.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.03,Tributos a recuperar,MIL,-330100.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.03,Tributos a recuperar,MIL,343269.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.04,Despesa antecipada,MIL,-1472.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.04,Despesa antecipada,MIL,-6302.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.05,Adiantamento a fornecedores,MIL,-484764.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.05,Adiantamento a fornecedores,MIL,72530.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.06,Estoques,MIL,-326239.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.06,Estoques,MIL,-89625.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.07,Fornecedores,MIL,220982.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.07,Fornecedores,MIL,1719209.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.08,Obrigações trabalhistas,MIL,49856.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.08,Obrigações trabalhistas,MIL,261252.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.09,Tributos e contribuições sociais,MIL,-672365.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.09,Tributos e contribuições sociais,MIL,-375367.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.10,Imposto de renda e contribuição social,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.10,Imposto de renda e contribuição social,MIL,-419518.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.11,Adiantamento de parceiros em operações de E&P,MIL,136078.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.11,Adiantamento de parceiros em operações de E&P,MIL,64421.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.12,Contingências,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.12,Contingências,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.02.13,Depósitos e cauções,MIL,-7115.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.02.13,Depósitos e cauções,MIL,937.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.03,Outros,MIL,78485.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.03,Outros,MIL,77315.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.03.01,Outros créditos,MIL,-226.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.03.01,Outros créditos,MIL,32448.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.01.03.02,Outras obrigações,MIL,78711.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.01.03.02,Outras obrigações,MIL,44867.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02,Caixa Líquido Atividades de Investimento,MIL,-14814285.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02,Caixa Líquido Atividades de Investimento,MIL,-17199540.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.01,Compra de ativo imobilizado,MIL,-3603021.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.01,Compra de ativo imobilizado,MIL,-5428983.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.02,Compra de ativo intangível,MIL,-12764.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.02,Compra de ativo intangível,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.03,Recompra de ações,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.03,Recompra de ações,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.04,Integralização de capital em controlada,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.04,Integralização de capital em controlada,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.05,Adiantamento para futuro aumento de capital,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.05,Adiantamento para futuro aumento de capital,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.06,(Aplicação) Resgate em títulos e valores mobiliários,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.06,(Aplicação) Resgate em títulos e valores mobiliários,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.07,Deposito em garantia,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.07,Deposito em garantia,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.08,Compra de ativo mantido para venda,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.08,Compra de ativo mantido para venda,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.09,Adiantamento para alienação de ativo imobilizado,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.09,Adiantamento para alienação de ativo imobilizado,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.10,(Compra) venda de ativos de E&P,MIL,-11198500.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.10,(Compra) venda de ativos de E&P,MIL,-11766046.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.11,(Aplicação) Resgate em Caixa Restrito,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.11,(Aplicação) Resgate em Caixa Restrito,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.02.12,(Aplicação) Resgate em Fundo de Abandono,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.02.12,(Aplicação) Resgate em Fundo de Abandono,MIL,-4511.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03,Caixa Líquido Atividades de Financiamento,MIL,5830780.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03,Caixa Líquido Atividades de Financiamento,MIL,8873301.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.01,Debêntures conversíveis em ações,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.01,Debêntures conversíveis em ações,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.02,Captações de empréstimos,MIL,7048364.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.02,Captações de empréstimos,MIL,10444688.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.03,Pagamento de principal sobre empréstimos,MIL,-2549014.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.03,Pagamento de principal sobre empréstimos,MIL,-4248013.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.04,Juros pagos sobre empréstimos,MIL,-469038.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.04,Juros pagos sobre empréstimos,MIL,-569515.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.05,Integralização de capital,MIL,58595.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.05,Integralização de capital,MIL,98995.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.06,Operação com derivativos,MIL,18699.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.06,Operação com derivativos,MIL,26302.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.07,Gastos com emissão de ações,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.07,Gastos com emissão de ações,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.08,(Compra) venda de ações da própria Companhia (mantidas em tesouraria),MIL,-945077.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.08,(Compra) venda de ações da própria Companhia (mantidas em tesouraria),MIL,-442819.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.09,Participações dos Minoritários,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.09,Participações dos Minoritários,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.10,Encargos contratuais Leasing IFRS 16 - Principal,MIL,-74087.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.10,Encargos contratuais Leasing IFRS 16 - Principal,MIL,-269411.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.11,Encargos contratuais Leasing IFRS 16 - Juros,MIL,-211420.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.11,Encargos contratuais Leasing IFRS 16 - Juros,MIL,-50005.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.12,Captação de Debêntures,MIL,3189707.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.12,Captação de Debêntures,MIL,4184148.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.13,Juros pagos sobre debêntures,MIL,-235949.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.13,Juros pagos sobre debêntures,MIL,-301069.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.03.14,Dividendos distribuídos,MIL,0.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.03.14,Dividendos distribuídos,MIL,0.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.04,Variação Cambial s/ Caixa e Equivalentes,MIL,971976.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.04,Variação Cambial s/ Caixa e Equivalentes,MIL,-444909.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.05,Aumento (Redução) de Caixa e Equivalentes,MIL,1657956.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.05,Aumento (Redução) de Caixa e Equivalentes,MIL,-595068.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.05.01,Saldo Inicial de Caixa e Equivalentes,MIL,2335403.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.05.01,Saldo Inicial de Caixa e Equivalentes,MIL,3993359.0
+2025-12-31,1,2024-01-01,2024-12-31,PENÚLTIMO,6.05.02,Saldo Final de Caixa e Equivalentes,MIL,3993359.0
+2025-12-31,1,2025-01-01,2025-12-31,ÚLTIMO,6.05.02,Saldo Final de Caixa e Equivalentes,MIL,3398291.0
