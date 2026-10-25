@@ -1,0 +1,11 @@
+﻿tipo_erro_inserido,teste,inseridos,detectados,nao_detectados,taxa_deteccao,sinalizados_total,sinalizados_outros_erros_inseridos,falsos_positivos
+E01-Duplicidade,T01_duplicidade,120,120,0,1.0,120,0,0
+E02-Corte,T02_corte,60,60,0,1.0,60,0,0
+E03-VC negativo,T03_vc_negativo,40,40,0,1.0,40,0,0
+E04-Depreciação em andamento,T04_deprec_andamento,50,50,0,1.0,50,0,0
+E05-Taxa incorreta,T05_recalculo_linear,80,80,0,1.0,80,0,0
+E06-Digitação x10,T06_inconsistencia_conversao,30,30,0,1.0,55,25,0
+E07-Segregação de funções,T07_segregacao,150,150,0,1.0,175,25,0
+E08-Alçada,T08_alcada,60,60,0,1.0,82,22,0
+E09-Lançamento manual suspeito,T09_lancamento_suspeito,25,25,0,1.0,25,0,0
+E10-Entidade/UGC incoerente,T10_entidade_ugc,40,40,0,1.0,40,0,0

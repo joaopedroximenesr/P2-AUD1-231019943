@@ -1,0 +1,79 @@
+﻿demonstracao,cd_conta,ds_conta,dfp2024_original,comparativo_dfp2025,diferenca,situacao
+BPA,1,Ativo Total,55746165.0,55746165.0,0.0,Igual
+BPA,1.01,Ativo Circulante,7952572.0,7952572.0,0.0,Igual
+BPA,1.01.01,Caixa e Equivalentes de Caixa,3993359.0,3993359.0,0.0,Igual
+BPA,1.01.03,Contas a Receber,931770.0,931770.0,0.0,Igual
+BPA,1.01.03.01,Clientes,931770.0,931770.0,0.0,Igual
+BPA,1.01.04,Estoques,1204744.0,1204744.0,0.0,Igual
+BPA,1.01.06,Tributos a Recuperar,1203464.0,1203464.0,0.0,Igual
+BPA,1.01.06.01,Tributos Correntes a Recuperar,1203464.0,1203464.0,0.0,Igual
+BPA,1.01.07,Despesas Antecipadas,32832.0,32832.0,0.0,Igual
+BPA,1.01.08,Outros Ativos Circulantes,586403.0,586403.0,0.0,Igual
+BPA,1.01.08.03,Outros,586403.0,586403.0,0.0,Igual
+BPA,1.01.08.03.01,Adiantamento a fornecedores,584337.0,584337.0,0.0,Igual
+BPA,1.01.08.03.03,Outros,2066.0,2066.0,0.0,Igual
+BPA,1.02,Ativo Não Circulante,47793593.0,47793593.0,0.0,Igual
+BPA,1.02.01,Ativo Realizável a Longo Prazo,5993622.0,5993622.0,0.0,Igual
+BPA,1.02.01.07,Tributos Diferidos,5636399.0,5636399.0,0.0,Igual
+BPA,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,5636399.0,5636399.0,0.0,Igual
+BPA,1.02.01.10,Outros Ativos Não Circulantes,357223.0,357223.0,0.0,Igual
+BPA,1.02.01.10.04,Adiantamento a fornecedores,881.0,881.0,0.0,Igual
+BPA,1.02.01.10.05,Depósitos judiciais,171082.0,171082.0,0.0,Igual
+BPA,1.02.01.10.06,Tributos a recuperar,185260.0,185260.0,0.0,Igual
+BPA,1.02.03,Imobilizado,25297509.0,25297509.0,0.0,Igual
+BPA,1.02.03.01,Imobilizado em Operação,15646101.0,15646101.0,0.0,Igual
+BPA,1.02.03.02,Direito de Uso em Arrendamento,2421249.0,2421249.0,0.0,Igual
+BPA,1.02.03.03,Imobilizado em Andamento,7230159.0,7230159.0,0.0,Igual
+BPA,1.02.04,Intangível,16502462.0,16502462.0,0.0,Igual
+BPA,1.02.04.01,Intangíveis,16502462.0,16502462.0,0.0,Igual
+BPA,1.02.04.01.01,Contrato de Concessão,16502462.0,16502462.0,0.0,Igual
+BPP,2,Passivo Total,55746165.0,55746165.0,0.0,Igual
+BPP,2.01,Passivo Circulante,3688444.0,3688444.0,0.0,Igual
+BPP,2.01.01,Obrigações Sociais e Trabalhistas,252270.0,252270.0,0.0,Igual
+BPP,2.01.01.02,Obrigações Trabalhistas,252270.0,252270.0,0.0,Igual
+BPP,2.01.01.02.04,Outras Obrigações Trabalhistas,252270.0,252270.0,0.0,Igual
+BPP,2.01.02,Fornecedores,757596.0,757596.0,0.0,Igual
+BPP,2.01.02.01,Fornecedores Nacionais,382868.0,382868.0,0.0,Igual
+BPP,2.01.02.02,Fornecedores Estrangeiros,374728.0,374728.0,0.0,Igual
+BPP,2.01.03,Obrigações Fiscais,830285.0,830285.0,0.0,Igual
+BPP,2.01.03.01,Obrigações Fiscais Federais,830285.0,830285.0,0.0,Igual
+BPP,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,502772.0,502772.0,0.0,Igual
+BPP,2.01.03.01.20,Outros,327513.0,327513.0,0.0,Igual
+BPP,2.01.04,Empréstimos e Financiamentos,578893.0,578893.0,0.0,Igual
+BPP,2.01.04.01,Empréstimos e Financiamentos,116157.0,116157.0,0.0,Igual
+BPP,2.01.04.01.02,Em Moeda Estrangeira,116157.0,116157.0,0.0,Igual
+BPP,2.01.04.02,Debêntures,133066.0,133066.0,0.0,Igual
+BPP,2.01.04.03,Financiamento por Arrendamento,329670.0,329670.0,0.0,Igual
+BPP,2.01.05,Outras Obrigações,1269400.0,1269400.0,0.0,Igual
+BPP,2.01.05.02,Outros,1269400.0,1269400.0,0.0,Igual
+BPP,2.01.05.02.08,Adiantamento de Parceiros,191816.0,191816.0,0.0,Igual
+BPP,2.01.05.02.11,Contas a pagar earn out Albacora,1077584.0,1077584.0,0.0,Igual
+BPP,2.02,Passivo Não Circulante,26133529.0,26133529.0,0.0,Igual
+BPP,2.02.01,Empréstimos e Financiamentos,21854784.0,21854784.0,0.0,Igual
+BPP,2.02.01.01,Empréstimos e Financiamentos,11819920.0,11819920.0,0.0,Igual
+BPP,2.02.01.01.02,Em Moeda Estrangeira,11819920.0,11819920.0,0.0,Igual
+BPP,2.02.01.02,Debêntures,7816048.0,7816048.0,0.0,Igual
+BPP,2.02.01.03,Financiamento por Arrendamento,2218816.0,2218816.0,0.0,Igual
+BPP,2.02.02,Outras Obrigações,132943.0,132943.0,0.0,Igual
+BPP,2.02.02.02,Outros,132943.0,132943.0,0.0,Igual
+BPP,2.02.02.02.04,Outras obrigações,132943.0,132943.0,0.0,Igual
+BPP,2.02.04,Provisões,4145802.0,4145802.0,0.0,Igual
+BPP,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,758036.0,758036.0,0.0,Igual
+BPP,2.02.04.01.01,Provisões Fiscais,86297.0,86297.0,0.0,Igual
+BPP,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,20819.0,20819.0,0.0,Igual
+BPP,2.02.04.01.04,Provisões Cíveis,650920.0,650920.0,0.0,Igual
+BPP,2.02.04.02,Outras Provisões,3387766.0,3387766.0,0.0,Igual
+BPP,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,3387766.0,3387766.0,0.0,Igual
+BPP,2.03,Patrimônio Líquido Consolidado,25924192.0,25924192.0,0.0,Igual
+BPP,2.03.01,Capital Social Realizado,10611387.0,10611387.0,0.0,Igual
+BPP,2.03.02,Reservas de Capital,-1016199.0,-1016199.0,0.0,Igual
+BPP,2.03.02.01,Ágio na Emissão de Ações,-32809.0,-32809.0,0.0,Igual
+BPP,2.03.02.04,Opções Outorgadas,477648.0,477648.0,0.0,Igual
+BPP,2.03.02.05,Ações em Tesouraria,-1461038.0,-1490923.0,-29885.0,Reclassificação/reapresentação - examinar
+BPP,2.03.02.07,Lucro na venda de Ações em Tesouraria,0.0,29885.0,29885.0,Reclassificação/reapresentação - examinar
+BPP,2.03.04,Reservas de Lucros,13903347.0,13903347.0,0.0,Igual
+BPP,2.03.04.01,Reserva Legal,958198.0,958198.0,0.0,Igual
+BPP,2.03.04.04,Reserva de Lucros a Realizar,218.0,218.0,0.0,Igual
+BPP,2.03.04.10,Reserva de Investimento,12944931.0,12944931.0,0.0,Igual
+BPP,2.03.06,Ajustes de Avaliação Patrimonial,-1483243.0,-1483243.0,0.0,Igual
+BPP,2.03.07,Ajustes Acumulados de Conversão,3908900.0,3908900.0,0.0,Igual

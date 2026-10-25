@@ -1,0 +1,20 @@
+﻿item,ref_demonstracao,valor_demonstracao,ref_nota,valor_nota,diferenca,situacao,explicacao
+Caixa e equivalentes,BP 1.01.01,3398291.0,NE 3 (p. 62),3398291.0,0.0,Conciliado,
+Contas a receber,BP 1.01.03,1690100.0,NE 4 (p. 63),1690100.0,0.0,Conciliado,
+Imobilizado (NE 8 + direito de uso NE 15),BP 1.02.03,31142804.0,NE 8 e 15 (p. 67 e 80),31142804.0,0.0,Conciliado,
+Direito de uso,BP 1.02.03.02,610400.0,NE 15 (p. 80),610400.0,0.0,Conciliado,
+Imobilizado em andamento,BP 1.02.03.03,10004506.0,NE 8 (p. 67),10004506.0,0.0,Conciliado,
+Intangível,BP 1.02.04,15038640.0,NE 9 (p. 69),15038640.0,0.0,Conciliado,
+IR/CS diferido ativo,BP 1.02.01.07,8121172.0,NE 16 (p. 83),8121172.0,0.0,Conciliado,
+"Empréstimos (circ. + não circ., sem debêntures e arrend.)",BP 2.01.04.01 + 2.02.01.01,17167620.0,NE 13 (p. 73),17167620.0,0.0,Conciliado,
+Debêntures (inclui MTM swap),BP 2.01.04.02 + 2.02.01.02,10625812.0,NE 14 (p. 79),10614792.0,11020.0,Diferença acima do trivial - investigar,"Explicada: MTM do swap do empréstimo XP (R$ 11.027 mil, NE 13 p. 76) apresentado na linha de debêntures do BP; resíduo de R$ 7 mil = arredondamento"
+Passivo de arrendamento,BP 2.01.04.03 + 2.02.01.03,644854.0,NE 15 (p. 80),644854.0,0.0,Conciliado,
+Provisão para abandono,BP 2.02.04.02.03,5447438.0,NE 17 (p. 84),5447438.0,0.0,Conciliado,
+Provisões para contingências,BP 2.02.04.01,758162.0,NE 30 (p. 96),758162.0,0.0,Conciliado,
+Receita líquida,DRE 3.01,15583960.0,NE 22 (p. 89),15583960.0,0.0,Conciliado,
+Custo dos produtos vendidos,DRE 3.02,-12469053.0,NE 23 (p. 89),-12469053.0,0.0,Conciliado,
+Outras receitas/despesas,DRE 3.04.04 + 3.04.05,-491868.0,NE 25 (p. 90),-491868.0,0.0,Conciliado,
+Depreciação/amortização (DFC x DVA),DFC 6.01.01.02,5855918.0,DVA 7.04.01,5854883.0,1035.0,Diferença trivial - registrar,Diferença de R$ 1.035 mil entre DFC e DVA - trivial; registrar no PT 450
+Depreciação/amortização (DFC x movimentação NE 8+9+15),DFC 6.01.01.02,5855918.0,"NE 8, 9, 15 (p. 68, 69, 80)",5704708.0,151210.0,Diferença acima do trivial - investigar,Hipótese: movimentações das notas a taxas históricas e DFC a taxa média (NE 2.4); não comprovável com dados públicos
+Depreciação de arrendamento (CPV x NE 15),NE 23 (p. 89),298515.0,NE 15 (p. 80),293368.0,5147.0,Diferença trivial - registrar,Diferença de R$ 5.147 mil - trivial; possível efeito de PIS/COFINS sobre arrendamentos (NE 15)
+Ativo por região (NE 28) x Ativo total,BP 1,64179605.0,NE 28 (p. 92),64179605.0,0.0,Conciliado,

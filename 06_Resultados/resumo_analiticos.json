@@ -1,0 +1,24 @@
+{
+  "mercado": {
+    "ptax_media_2024": 5.392,
+    "ptax_fim_2024": 6.1923,
+    "brent_medio_2024": 80.52,
+    "ptax_media_2025": 5.5855,
+    "ptax_fim_2025": 5.5024,
+    "brent_medio_2025": 69.14
+  },
+  "indicadores": {
+    "divida_liquida": 23712526.0,
+    "ebitda_aj": 8157108.0,
+    "alavancagem": 2.9069770806025863,
+    "alavancagem_proforma": 2.1534722721393846,
+    "ebitda_pere_40_premissa": 2854190.5,
+    "liquidez_corrente": 1.8191494718759829,
+    "fco": 8176080.0,
+    "capex": 5428983.0
+  },
+  "reconciliacao_itens": 19,
+  "reconciliacao_diferencas": 4,
+  "saldos_iniciais_diferencas": 2,
+  "analiticos_investigar": 2
+}

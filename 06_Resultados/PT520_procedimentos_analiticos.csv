@@ -1,0 +1,6 @@
+﻿conta,expectativa_metodo,valor_esperado,valor_registrado,precisao_pct,diferenca,diferenca_pct,limite_investigacao,investigar,precisao_suficiente_isolada
+Receita de venda de óleo próprio (bruta),"Volume vendido (37,8 MMbbl, RA p. 27) x (Brent médio EIA - desconto premissa US$ 4/bbl) x PTAX média BCB",13753131.966,13954101.0,0.05,200969.03399999999,0.014612601296695794,687656.5983000001,False,False
+"Depreciação, amortização e exaustão",Taxa R$/bbl 2024 (sem Peregrino) x barris legados 2025 + VC de abertura de Peregrino / 6 anos até 2031 + aquisição +40% pro rata,4137702.007302641,5855918.0,0.15,1718215.992697359,0.41525851539450526,620655.3010953962,True,False
+Juros sobre empréstimos e debêntures,"Dívida bruta média (NE 13+14) x custo médio da dívida 6,36% (RA p. 39)",1447305.9270000001,1344905.0,0.1,-102400.92700000014,-0.07075278632504359,144730.5927,False,False
+Atualização monetária da provisão de abandono,"Saldo inicial NE 17 + complemento Peregrino pro rata (50 dias) x taxa média 7,55%",269454.9782739726,371394.0,0.1,101939.02172602742,0.3783155998045036,26945.49782739726,True,True
+Royalties e participação especial,10% (alíquota de royalties ANP) x receita bruta de óleo próprio,1395410.1,1533652.0,0.15,138241.8999999999,0.0990690120416929,209311.515,False,False

@@ -1,0 +1,15 @@
+﻿indicador,2025,2024,referencia
+Liquidez corrente,1.8191494718759829,2.1560777390140666,"> 1,0"
+Liquidez seca,1.2281864400821283,1.8294511181408746,"> 1,0"
+Dívida bruta (empréstimos + debêntures) R$ mil,27110817.0,18401948.0,-
+Dívida líquida R$ mil,23712526.0,14408589.0,-
+EBITDA ajustado R$ mil,8157108.0,9165900.0,-
+Dívida líquida / EBITDA ajustado (sem pró-forma),2.9069770806025863,,"<= 2,5x (covenant)"
+Dívida líquida / EBITDA ajustado pró-forma Peregrino 40% (premissa),2.1534722721393846,,"<= 2,5x (covenant)"
+"EBITDA mínimo para atender 2,5x (sem pró-forma) R$ mil",9485010.4,,-
+Cobertura de juros (EBITDA aj. / juros pagos),9.369696663389174,,"> 3,0x"
+FCO / dívida bruta,0.3015799929600056,,-
+FCO - capex (fluxo livre antes de aquisições) R$ mil,2747097.0,,> 0
+Endividamento (passivo total / PL),1.489522934570567,,-
+Margem EBITDA ajustado,0.5234297315958203,,-
+Prazo médio de recebimento (dias),39.58470760961912,23.682492014812976,30 dias (NE 2.6)

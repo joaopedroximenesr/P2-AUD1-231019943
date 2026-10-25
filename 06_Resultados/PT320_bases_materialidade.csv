@@ -1,0 +1,6 @@
+﻿base,valor,pct_min,pct_max,pct,escolhida
+Receita líquida (DRE 3.01),15583960.0,0.005,0.01,0.01,True
+EBITDA ajustado (3.05 + D&A DFC 6.01.01.02 + outras desp. líquidas),8157108.0,0.01,0.02,0.02,False
+Ativo total (BP 1),64179605.0,0.0025,0.005,0.0025,False
+Patrimônio líquido (BP 2.03),25779881.0,0.005,0.01,0.005,False
+Lucro antes dos tributos (DRE 3.07) - descartada: negativo/volátil,-232613.0,0.05,0.05,0.05,False

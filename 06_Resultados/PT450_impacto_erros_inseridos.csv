@@ -1,0 +1,11 @@
+﻿tipo_erro,registros,impacto_valor_contabil_brl
+E01-Duplicidade,120,16579858.05
+E02-Corte,60,1044302.55
+E03-VC negativo,40,-10085935.5
+E04-Depreciação em andamento,50,-122311.45
+E05-Taxa incorreta,80,3249449.04
+E06-Digitação x10,30,32354616.87
+E07-Segregação de funções,150,0.0
+E08-Alçada,60,0.0
+E09-Lançamento manual suspeito,25,282000000.0
+E10-Entidade/UGC incoerente,40,0.0

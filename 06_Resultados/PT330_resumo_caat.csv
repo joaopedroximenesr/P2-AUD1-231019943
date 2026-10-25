@@ -1,0 +1,13 @@
+﻿teste,itens_sinalizados,valor_contabil_sinalizado_brl
+T01_duplicidade,120,16579858.05
+T02_corte,60,1044302.55
+T03_vc_negativo,40,-1862891.63
+T04_deprec_andamento,50,1702797.94
+T05_recalculo_linear,80,16291738.79
+T06_inconsistencia_conversao,55,317962659.96
+T07_segregacao,175,288827977.9
+T08_alcada,82,667067344.06
+T09_lancamento_suspeito,25,282000000.0
+T10_entidade_ugc,40,2262188.17
+T11_sem_movimento_12m,89510,1243701612.27
+T12_atipico_estatistico,40,75525833.05
