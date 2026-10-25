@@ -1,0 +1,32 @@
+﻿variavel,tipo,descricao,exemplo
+id_registro,texto,Identificador único do registro no subledger (chave primária),IMB0000001
+id_bem,texto,Número patrimonial do bem/componente (sigla da classe + sequência),PLAT-000123
+classe_ne,texto,Classe do imobilizado conforme NE 8 (ou NE 15 para direito de uso),Material poços
+grupo,texto,Em operação | Em andamento | Direito de uso,Em andamento
+conta_contabil,texto,"Conta do plano CVM: 1.02.03.01 operação, .02 direito de uso, .03 andamento",1.02.03.03
+entidade,texto,Entidade do grupo detentora do registro (componente - PT 600),Prio Forte
+campo_ugc,texto,Campo/cluster = unidade geradora de caixa (NE 2.13),Peregrino
+descricao,texto,Descrição sintética do bem ou do gasto capitalizado,Árvore de natal molhada (ANM)
+localizacao,texto,Local físico de referência (para inspeção planejada),FPSO Valente
+origem_registro,texto,"Forma de ingresso: aquisição própria, combinação de negócios, ARO etc.",Combinação de negócios Stellina (NE 9.c)
+metodo_depreciacao,texto,UOP (unidades produzidas) | Linear | Não deprecia | Linear (prazo do contrato),UOP
+taxa_depreciacao_anual,decimal,"Taxa linear anual (somente classes lineares, NE 8)",0.20
+vida_util_anos,decimal,Vida útil implícita = 1/taxa (classes lineares),5.0
+data_aquisicao,data,Data do documento de aquisição,2025-03-14
+data_capitalizacao,data,Data de entrada em operação (vazia para itens em andamento),2025-04-02
+data_lancamento,data,Data do lançamento contábil no sistema,2025-04-03
+moeda_original,texto,"Moeda do documento de origem (moeda funcional do grupo = USD, NE 2.4)",USD
+taxa_cambio_historica,decimal,Taxa R$/US$ histórica do registro (premissa didática),5.3920
+custo_usd,decimal,Custo histórico em US$ = custo R$ / taxa histórica,1250000.00
+custo_historico_brl,decimal (R$),Custo histórico em reais,6740000.00
+depreciacao_acumulada_brl,decimal (R$),Depreciação acumulada (valor negativo),-1234567.89
+ajuste_conversao_brl,decimal (R$),Parcela do ajuste acumulado de conversão alocada ao registro,15000.10
+valor_contabil_brl,decimal (R$),Custo + depreciação + ajuste de conversão (saldo em 31/12/2025),5520432.21
+quantidade,inteiro,Quantidade física (materiais de poço e sobressalentes),120
+unidade,texto,UN = unidade | LT = lote,LT
+data_ultima_movimentacao,data,Última movimentação física (materiais) - teste de obsolescência,2023-08-30
+fornecedor_id,texto,Código do fornecedor/arrendador,FORN-00012
+documento_origem,texto,"NF-, OS- (ordem de serviço), CTR- (contrato), AJ- (ajuste manual)",NF-48213377
+usuario_lancamento,texto,Usuário que registrou o lançamento,USR014
+aprovador,texto,Usuário que aprovou (APRxx gerentes até R$ 5 mi; DIRxx diretores),DIR02
+flag_dado,texto,Marca obrigatória: dado sintético para fins didáticos,SINTETICO - fins didaticos

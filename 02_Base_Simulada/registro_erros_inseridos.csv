@@ -1,0 +1,656 @@
+﻿id_registro,tipo_erro,descricao,campo_alterado,valor_original,valor_inserido,impacto_valor_contabil_brl
+IMB0518201,E01-Duplicidade,"Duplicata de IMB0274384 (mesmo bem, documento e valor)",,,,56799.3
+IMB0518202,E01-Duplicidade,"Duplicata de IMB0514172 (mesmo bem, documento e valor)",,,,7385.13
+IMB0518203,E01-Duplicidade,"Duplicata de IMB0418693 (mesmo bem, documento e valor)",,,,6117.78
+IMB0518204,E01-Duplicidade,"Duplicata de IMB0085172 (mesmo bem, documento e valor)",,,,3980.56
+IMB0518205,E01-Duplicidade,"Duplicata de IMB0484709 (mesmo bem, documento e valor)",,,,2852.28
+IMB0518206,E01-Duplicidade,"Duplicata de IMB0494444 (mesmo bem, documento e valor)",,,,4363.99
+IMB0518207,E01-Duplicidade,"Duplicata de IMB0308417 (mesmo bem, documento e valor)",,,,11408.49
+IMB0518208,E01-Duplicidade,"Duplicata de IMB0004149 (mesmo bem, documento e valor)",,,,1537084.82
+IMB0518209,E01-Duplicidade,"Duplicata de IMB0050599 (mesmo bem, documento e valor)",,,,196945.82
+IMB0518210,E01-Duplicidade,"Duplicata de IMB0429295 (mesmo bem, documento e valor)",,,,19790.23
+IMB0518211,E01-Duplicidade,"Duplicata de IMB0412350 (mesmo bem, documento e valor)",,,,3137.3
+IMB0518212,E01-Duplicidade,"Duplicata de IMB0292696 (mesmo bem, documento e valor)",,,,20291.75
+IMB0518213,E01-Duplicidade,"Duplicata de IMB0506304 (mesmo bem, documento e valor)",,,,3641.71
+IMB0518214,E01-Duplicidade,"Duplicata de IMB0451286 (mesmo bem, documento e valor)",,,,2969.82
+IMB0518215,E01-Duplicidade,"Duplicata de IMB0426305 (mesmo bem, documento e valor)",,,,3253.15
+IMB0518216,E01-Duplicidade,"Duplicata de IMB0419690 (mesmo bem, documento e valor)",,,,11835.85
+IMB0518217,E01-Duplicidade,"Duplicata de IMB0352042 (mesmo bem, documento e valor)",,,,3346.67
+IMB0518218,E01-Duplicidade,"Duplicata de IMB0182609 (mesmo bem, documento e valor)",,,,226115.12
+IMB0518219,E01-Duplicidade,"Duplicata de IMB0007121 (mesmo bem, documento e valor)",,,,150283.36
+IMB0518220,E01-Duplicidade,"Duplicata de IMB0182723 (mesmo bem, documento e valor)",,,,5337.63
+IMB0518221,E01-Duplicidade,"Duplicata de IMB0036015 (mesmo bem, documento e valor)",,,,16092.3
+IMB0518222,E01-Duplicidade,"Duplicata de IMB0224076 (mesmo bem, documento e valor)",,,,8984.99
+IMB0518223,E01-Duplicidade,"Duplicata de IMB0252487 (mesmo bem, documento e valor)",,,,620.87
+IMB0518224,E01-Duplicidade,"Duplicata de IMB0487569 (mesmo bem, documento e valor)",,,,56279.83
+IMB0518225,E01-Duplicidade,"Duplicata de IMB0505460 (mesmo bem, documento e valor)",,,,10827.28
+IMB0518226,E01-Duplicidade,"Duplicata de IMB0016139 (mesmo bem, documento e valor)",,,,4371.86
+IMB0518227,E01-Duplicidade,"Duplicata de IMB0398006 (mesmo bem, documento e valor)",,,,16992.31
+IMB0518228,E01-Duplicidade,"Duplicata de IMB0165820 (mesmo bem, documento e valor)",,,,9296.8
+IMB0518229,E01-Duplicidade,"Duplicata de IMB0194441 (mesmo bem, documento e valor)",,,,5024.75
+IMB0518230,E01-Duplicidade,"Duplicata de IMB0490482 (mesmo bem, documento e valor)",,,,2554.05
+IMB0518231,E01-Duplicidade,"Duplicata de IMB0370923 (mesmo bem, documento e valor)",,,,20816.71
+IMB0518232,E01-Duplicidade,"Duplicata de IMB0002925 (mesmo bem, documento e valor)",,,,10118484.66
+IMB0518233,E01-Duplicidade,"Duplicata de IMB0034813 (mesmo bem, documento e valor)",,,,17423.8
+IMB0518234,E01-Duplicidade,"Duplicata de IMB0360352 (mesmo bem, documento e valor)",,,,34044.28
+IMB0518235,E01-Duplicidade,"Duplicata de IMB0217454 (mesmo bem, documento e valor)",,,,4803.72
+IMB0518236,E01-Duplicidade,"Duplicata de IMB0372958 (mesmo bem, documento e valor)",,,,6648.7
+IMB0518237,E01-Duplicidade,"Duplicata de IMB0021030 (mesmo bem, documento e valor)",,,,75957.15
+IMB0518238,E01-Duplicidade,"Duplicata de IMB0289826 (mesmo bem, documento e valor)",,,,27024.92
+IMB0518239,E01-Duplicidade,"Duplicata de IMB0341796 (mesmo bem, documento e valor)",,,,773.62
+IMB0518240,E01-Duplicidade,"Duplicata de IMB0337392 (mesmo bem, documento e valor)",,,,82119.58
+IMB0518241,E01-Duplicidade,"Duplicata de IMB0407992 (mesmo bem, documento e valor)",,,,760.05
+IMB0518242,E01-Duplicidade,"Duplicata de IMB0193088 (mesmo bem, documento e valor)",,,,9503.09
+IMB0518243,E01-Duplicidade,"Duplicata de IMB0435168 (mesmo bem, documento e valor)",,,,224.63
+IMB0518244,E01-Duplicidade,"Duplicata de IMB0289641 (mesmo bem, documento e valor)",,,,131004.39
+IMB0518245,E01-Duplicidade,"Duplicata de IMB0465349 (mesmo bem, documento e valor)",,,,16630.65
+IMB0518246,E01-Duplicidade,"Duplicata de IMB0426993 (mesmo bem, documento e valor)",,,,1612.44
+IMB0518247,E01-Duplicidade,"Duplicata de IMB0463368 (mesmo bem, documento e valor)",,,,1748.26
+IMB0518248,E01-Duplicidade,"Duplicata de IMB0034407 (mesmo bem, documento e valor)",,,,61905.02
+IMB0518249,E01-Duplicidade,"Duplicata de IMB0116269 (mesmo bem, documento e valor)",,,,164929.54
+IMB0518250,E01-Duplicidade,"Duplicata de IMB0157546 (mesmo bem, documento e valor)",,,,15135.79
+IMB0518251,E01-Duplicidade,"Duplicata de IMB0106794 (mesmo bem, documento e valor)",,,,82073.53
+IMB0518252,E01-Duplicidade,"Duplicata de IMB0198769 (mesmo bem, documento e valor)",,,,14912.16
+IMB0518253,E01-Duplicidade,"Duplicata de IMB0284541 (mesmo bem, documento e valor)",,,,19746.36
+IMB0518254,E01-Duplicidade,"Duplicata de IMB0234245 (mesmo bem, documento e valor)",,,,23491.05
+IMB0518255,E01-Duplicidade,"Duplicata de IMB0369786 (mesmo bem, documento e valor)",,,,19912.14
+IMB0518256,E01-Duplicidade,"Duplicata de IMB0214163 (mesmo bem, documento e valor)",,,,51838.18
+IMB0518257,E01-Duplicidade,"Duplicata de IMB0471585 (mesmo bem, documento e valor)",,,,78161.96
+IMB0518258,E01-Duplicidade,"Duplicata de IMB0372123 (mesmo bem, documento e valor)",,,,6887.96
+IMB0518259,E01-Duplicidade,"Duplicata de IMB0312900 (mesmo bem, documento e valor)",,,,1012.72
+IMB0518260,E01-Duplicidade,"Duplicata de IMB0509028 (mesmo bem, documento e valor)",,,,5924.36
+IMB0518261,E01-Duplicidade,"Duplicata de IMB0060827 (mesmo bem, documento e valor)",,,,48754.58
+IMB0518262,E01-Duplicidade,"Duplicata de IMB0475129 (mesmo bem, documento e valor)",,,,11104.87
+IMB0518263,E01-Duplicidade,"Duplicata de IMB0103418 (mesmo bem, documento e valor)",,,,8452.14
+IMB0518264,E01-Duplicidade,"Duplicata de IMB0395795 (mesmo bem, documento e valor)",,,,35896.53
+IMB0518265,E01-Duplicidade,"Duplicata de IMB0427111 (mesmo bem, documento e valor)",,,,19622.23
+IMB0518266,E01-Duplicidade,"Duplicata de IMB0324636 (mesmo bem, documento e valor)",,,,3959.73
+IMB0518267,E01-Duplicidade,"Duplicata de IMB0266860 (mesmo bem, documento e valor)",,,,10936.29
+IMB0518268,E01-Duplicidade,"Duplicata de IMB0164158 (mesmo bem, documento e valor)",,,,19770.87
+IMB0518269,E01-Duplicidade,"Duplicata de IMB0323974 (mesmo bem, documento e valor)",,,,38292.26
+IMB0518270,E01-Duplicidade,"Duplicata de IMB0356084 (mesmo bem, documento e valor)",,,,58367.81
+IMB0518271,E01-Duplicidade,"Duplicata de IMB0391696 (mesmo bem, documento e valor)",,,,11289.79
+IMB0518272,E01-Duplicidade,"Duplicata de IMB0246471 (mesmo bem, documento e valor)",,,,5920.66
+IMB0518273,E01-Duplicidade,"Duplicata de IMB0191828 (mesmo bem, documento e valor)",,,,13706.63
+IMB0518274,E01-Duplicidade,"Duplicata de IMB0191630 (mesmo bem, documento e valor)",,,,24874.89
+IMB0518275,E01-Duplicidade,"Duplicata de IMB0317393 (mesmo bem, documento e valor)",,,,7848.5
+IMB0518276,E01-Duplicidade,"Duplicata de IMB0144764 (mesmo bem, documento e valor)",,,,16152.43
+IMB0518277,E01-Duplicidade,"Duplicata de IMB0488839 (mesmo bem, documento e valor)",,,,13129.63
+IMB0518278,E01-Duplicidade,"Duplicata de IMB0294317 (mesmo bem, documento e valor)",,,,810.36
+IMB0518279,E01-Duplicidade,"Duplicata de IMB0211149 (mesmo bem, documento e valor)",,,,6017.7
+IMB0518280,E01-Duplicidade,"Duplicata de IMB0512938 (mesmo bem, documento e valor)",,,,3611.04
+IMB0518281,E01-Duplicidade,"Duplicata de IMB0017643 (mesmo bem, documento e valor)",,,,8846.05
+IMB0518282,E01-Duplicidade,"Duplicata de IMB0203807 (mesmo bem, documento e valor)",,,,2871.89
+IMB0518283,E01-Duplicidade,"Duplicata de IMB0385645 (mesmo bem, documento e valor)",,,,12722.3
+IMB0518284,E01-Duplicidade,"Duplicata de IMB0465169 (mesmo bem, documento e valor)",,,,317.81
+IMB0518285,E01-Duplicidade,"Duplicata de IMB0337560 (mesmo bem, documento e valor)",,,,1180.89
+IMB0518286,E01-Duplicidade,"Duplicata de IMB0269372 (mesmo bem, documento e valor)",,,,2276.26
+IMB0518287,E01-Duplicidade,"Duplicata de IMB0224215 (mesmo bem, documento e valor)",,,,2243.32
+IMB0518288,E01-Duplicidade,"Duplicata de IMB0430796 (mesmo bem, documento e valor)",,,,844.6
+IMB0518289,E01-Duplicidade,"Duplicata de IMB0270014 (mesmo bem, documento e valor)",,,,24820.74
+IMB0518290,E01-Duplicidade,"Duplicata de IMB0032486 (mesmo bem, documento e valor)",,,,35325.71
+IMB0518291,E01-Duplicidade,"Duplicata de IMB0416317 (mesmo bem, documento e valor)",,,,5500.42
+IMB0518292,E01-Duplicidade,"Duplicata de IMB0007919 (mesmo bem, documento e valor)",,,,87028.0
+IMB0518293,E01-Duplicidade,"Duplicata de IMB0476122 (mesmo bem, documento e valor)",,,,25947.15
+IMB0518294,E01-Duplicidade,"Duplicata de IMB0203973 (mesmo bem, documento e valor)",,,,87951.8
+IMB0518295,E01-Duplicidade,"Duplicata de IMB0151575 (mesmo bem, documento e valor)",,,,64167.24
+IMB0518296,E01-Duplicidade,"Duplicata de IMB0346127 (mesmo bem, documento e valor)",,,,2134.65
+IMB0518297,E01-Duplicidade,"Duplicata de IMB0501874 (mesmo bem, documento e valor)",,,,1801.21
+IMB0518298,E01-Duplicidade,"Duplicata de IMB0140354 (mesmo bem, documento e valor)",,,,10073.1
+IMB0518299,E01-Duplicidade,"Duplicata de IMB0072595 (mesmo bem, documento e valor)",,,,214362.46
+IMB0518300,E01-Duplicidade,"Duplicata de IMB0282666 (mesmo bem, documento e valor)",,,,8286.94
+IMB0518301,E01-Duplicidade,"Duplicata de IMB0511786 (mesmo bem, documento e valor)",,,,7958.7
+IMB0518302,E01-Duplicidade,"Duplicata de IMB0408505 (mesmo bem, documento e valor)",,,,6979.19
+IMB0518303,E01-Duplicidade,"Duplicata de IMB0498079 (mesmo bem, documento e valor)",,,,532950.26
+IMB0518304,E01-Duplicidade,"Duplicata de IMB0225916 (mesmo bem, documento e valor)",,,,8510.75
+IMB0518305,E01-Duplicidade,"Duplicata de IMB0021464 (mesmo bem, documento e valor)",,,,10013.12
+IMB0518306,E01-Duplicidade,"Duplicata de IMB0109354 (mesmo bem, documento e valor)",,,,11470.16
+IMB0518307,E01-Duplicidade,"Duplicata de IMB0131594 (mesmo bem, documento e valor)",,,,11902.53
+IMB0518308,E01-Duplicidade,"Duplicata de IMB0068254 (mesmo bem, documento e valor)",,,,49567.53
+IMB0518309,E01-Duplicidade,"Duplicata de IMB0058965 (mesmo bem, documento e valor)",,,,5119.66
+IMB0518310,E01-Duplicidade,"Duplicata de IMB0061713 (mesmo bem, documento e valor)",,,,901195.5
+IMB0518311,E01-Duplicidade,"Duplicata de IMB0239440 (mesmo bem, documento e valor)",,,,15880.72
+IMB0518312,E01-Duplicidade,"Duplicata de IMB0400714 (mesmo bem, documento e valor)",,,,16463.32
+IMB0518313,E01-Duplicidade,"Duplicata de IMB0510208 (mesmo bem, documento e valor)",,,,6290.01
+IMB0518314,E01-Duplicidade,"Duplicata de IMB0017193 (mesmo bem, documento e valor)",,,,430521.29
+IMB0518315,E01-Duplicidade,"Duplicata de IMB0000389 (mesmo bem, documento e valor)",,,,541.45
+IMB0518316,E01-Duplicidade,"Duplicata de IMB0038569 (mesmo bem, documento e valor)",,,,5088.17
+IMB0518317,E01-Duplicidade,"Duplicata de IMB0191493 (mesmo bem, documento e valor)",,,,36771.14
+IMB0518318,E01-Duplicidade,"Duplicata de IMB0032671 (mesmo bem, documento e valor)",,,,14077.2
+IMB0518319,E01-Duplicidade,"Duplicata de IMB0066704 (mesmo bem, documento e valor)",,,,46367.8
+IMB0518320,E01-Duplicidade,"Duplicata de IMB0139438 (mesmo bem, documento e valor)",,,,1470.85
+IMB0518321,E02-Corte,NF emitida em 2026-01-12 lançada na competência 2025,data_aquisicao,,2026-01-12,6859.08
+IMB0518322,E02-Corte,NF emitida em 2026-01-12 lançada na competência 2025,data_aquisicao,,2026-01-12,113370.57
+IMB0518323,E02-Corte,NF emitida em 2026-02-02 lançada na competência 2025,data_aquisicao,,2026-02-02,28573.83
+IMB0518324,E02-Corte,NF emitida em 2026-01-07 lançada na competência 2025,data_aquisicao,,2026-01-07,25990.54
+IMB0518325,E02-Corte,NF emitida em 2026-01-29 lançada na competência 2025,data_aquisicao,,2026-01-29,4283.94
+IMB0518326,E02-Corte,NF emitida em 2026-02-05 lançada na competência 2025,data_aquisicao,,2026-02-05,8825.72
+IMB0518327,E02-Corte,NF emitida em 2026-01-22 lançada na competência 2025,data_aquisicao,,2026-01-22,31104.41
+IMB0518328,E02-Corte,NF emitida em 2026-02-19 lançada na competência 2025,data_aquisicao,,2026-02-19,13499.07
+IMB0518329,E02-Corte,NF emitida em 2026-02-07 lançada na competência 2025,data_aquisicao,,2026-02-07,1220.68
+IMB0518330,E02-Corte,NF emitida em 2026-02-16 lançada na competência 2025,data_aquisicao,,2026-02-16,3484.63
+IMB0518331,E02-Corte,NF emitida em 2026-01-27 lançada na competência 2025,data_aquisicao,,2026-01-27,3663.28
+IMB0518332,E02-Corte,NF emitida em 2026-02-16 lançada na competência 2025,data_aquisicao,,2026-02-16,3046.28
+IMB0518333,E02-Corte,NF emitida em 2026-01-20 lançada na competência 2025,data_aquisicao,,2026-01-20,1383.97
+IMB0518334,E02-Corte,NF emitida em 2026-01-10 lançada na competência 2025,data_aquisicao,,2026-01-10,9451.74
+IMB0518335,E02-Corte,NF emitida em 2026-01-18 lançada na competência 2025,data_aquisicao,,2026-01-18,10343.62
+IMB0518336,E02-Corte,NF emitida em 2026-02-10 lançada na competência 2025,data_aquisicao,,2026-02-10,25789.55
+IMB0518337,E02-Corte,NF emitida em 2026-02-21 lançada na competência 2025,data_aquisicao,,2026-02-21,96718.92
+IMB0518338,E02-Corte,NF emitida em 2026-02-05 lançada na competência 2025,data_aquisicao,,2026-02-05,1982.27
+IMB0518339,E02-Corte,NF emitida em 2026-02-22 lançada na competência 2025,data_aquisicao,,2026-02-22,2348.7
+IMB0518340,E02-Corte,NF emitida em 2026-01-16 lançada na competência 2025,data_aquisicao,,2026-01-16,4818.19
+IMB0518341,E02-Corte,NF emitida em 2026-01-31 lançada na competência 2025,data_aquisicao,,2026-01-31,2837.81
+IMB0518342,E02-Corte,NF emitida em 2026-02-14 lançada na competência 2025,data_aquisicao,,2026-02-14,3760.12
+IMB0518343,E02-Corte,NF emitida em 2026-01-23 lançada na competência 2025,data_aquisicao,,2026-01-23,644.78
+IMB0518344,E02-Corte,NF emitida em 2026-02-10 lançada na competência 2025,data_aquisicao,,2026-02-10,2856.97
+IMB0518345,E02-Corte,NF emitida em 2026-02-09 lançada na competência 2025,data_aquisicao,,2026-02-09,589.68
+IMB0518346,E02-Corte,NF emitida em 2026-01-25 lançada na competência 2025,data_aquisicao,,2026-01-25,7725.9
+IMB0518347,E02-Corte,NF emitida em 2026-02-10 lançada na competência 2025,data_aquisicao,,2026-02-10,11467.86
+IMB0518348,E02-Corte,NF emitida em 2026-01-14 lançada na competência 2025,data_aquisicao,,2026-01-14,33700.7
+IMB0518349,E02-Corte,NF emitida em 2026-02-02 lançada na competência 2025,data_aquisicao,,2026-02-02,4114.53
+IMB0518350,E02-Corte,NF emitida em 2026-02-22 lançada na competência 2025,data_aquisicao,,2026-02-22,27544.17
+IMB0518351,E02-Corte,NF emitida em 2026-02-14 lançada na competência 2025,data_aquisicao,,2026-02-14,51957.88
+IMB0518352,E02-Corte,NF emitida em 2026-02-14 lançada na competência 2025,data_aquisicao,,2026-02-14,6415.08
+IMB0518353,E02-Corte,NF emitida em 2026-02-18 lançada na competência 2025,data_aquisicao,,2026-02-18,1037.36
+IMB0518354,E02-Corte,NF emitida em 2026-02-04 lançada na competência 2025,data_aquisicao,,2026-02-04,1928.41
+IMB0518355,E02-Corte,NF emitida em 2026-02-17 lançada na competência 2025,data_aquisicao,,2026-02-17,26160.06
+IMB0518356,E02-Corte,NF emitida em 2026-02-08 lançada na competência 2025,data_aquisicao,,2026-02-08,1757.72
+IMB0518357,E02-Corte,NF emitida em 2026-02-17 lançada na competência 2025,data_aquisicao,,2026-02-17,5479.84
+IMB0518358,E02-Corte,NF emitida em 2026-01-10 lançada na competência 2025,data_aquisicao,,2026-01-10,1601.87
+IMB0518359,E02-Corte,NF emitida em 2026-02-14 lançada na competência 2025,data_aquisicao,,2026-02-14,3318.16
+IMB0518360,E02-Corte,NF emitida em 2026-02-23 lançada na competência 2025,data_aquisicao,,2026-02-23,16843.95
+IMB0518361,E02-Corte,NF emitida em 2026-02-09 lançada na competência 2025,data_aquisicao,,2026-02-09,16781.13
+IMB0518362,E02-Corte,NF emitida em 2026-02-04 lançada na competência 2025,data_aquisicao,,2026-02-04,16164.03
+IMB0518363,E02-Corte,NF emitida em 2026-02-03 lançada na competência 2025,data_aquisicao,,2026-02-03,9415.06
+IMB0518364,E02-Corte,NF emitida em 2026-01-30 lançada na competência 2025,data_aquisicao,,2026-01-30,19172.98
+IMB0518365,E02-Corte,NF emitida em 2026-01-13 lançada na competência 2025,data_aquisicao,,2026-01-13,6805.68
+IMB0518366,E02-Corte,NF emitida em 2026-02-21 lançada na competência 2025,data_aquisicao,,2026-02-21,3107.8
+IMB0518367,E02-Corte,NF emitida em 2026-01-29 lançada na competência 2025,data_aquisicao,,2026-01-29,10877.62
+IMB0518368,E02-Corte,NF emitida em 2026-02-11 lançada na competência 2025,data_aquisicao,,2026-02-11,72179.53
+IMB0518369,E02-Corte,NF emitida em 2026-02-19 lançada na competência 2025,data_aquisicao,,2026-02-19,6727.98
+IMB0518370,E02-Corte,NF emitida em 2026-02-13 lançada na competência 2025,data_aquisicao,,2026-02-13,5731.13
+IMB0518371,E02-Corte,NF emitida em 2026-01-31 lançada na competência 2025,data_aquisicao,,2026-01-31,14425.79
+IMB0518372,E02-Corte,NF emitida em 2026-01-16 lançada na competência 2025,data_aquisicao,,2026-01-16,39416.75
+IMB0518373,E02-Corte,NF emitida em 2026-02-06 lançada na competência 2025,data_aquisicao,,2026-02-06,3119.1
+IMB0518374,E02-Corte,NF emitida em 2026-01-16 lançada na competência 2025,data_aquisicao,,2026-01-16,170918.2
+IMB0518375,E02-Corte,NF emitida em 2026-02-06 lançada na competência 2025,data_aquisicao,,2026-02-06,1551.9
+IMB0518376,E02-Corte,NF emitida em 2026-01-30 lançada na competência 2025,data_aquisicao,,2026-01-30,6341.59
+IMB0518377,E02-Corte,NF emitida em 2026-02-04 lançada na competência 2025,data_aquisicao,,2026-02-04,12374.88
+IMB0518378,E02-Corte,NF emitida em 2026-02-06 lançada na competência 2025,data_aquisicao,,2026-02-06,12884.1
+IMB0518379,E02-Corte,NF emitida em 2026-01-07 lançada na competência 2025,data_aquisicao,,2026-01-07,6649.56
+IMB0518380,E02-Corte,NF emitida em 2026-02-16 lançada na competência 2025,data_aquisicao,,2026-02-16,1155.9
+IMB0020948,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-11418.3,-27979.5,-16561.2
+IMB0040057,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-28776.43,-69593.96,-40817.53
+IMB0059689,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-111003.84,-461212.97,-350209.13
+IMB0009482,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-41596.37,-1331542.53,-1289946.16
+IMB0071732,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-3837.56,-18908.23,-15070.67
+IMB0061204,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-24038.62,-151095.92,-127057.3
+IMB0045819,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-1600.85,-24764.81,-23163.96
+IMB0070700,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-1760.82,-55958.21,-54197.39
+IMB0054652,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-11877.46,-317022.83,-305145.37
+IMB0014476,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-1506.28,-23198.0,-21691.72
+IMB0021057,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-22380.89,-70405.9,-48025.01
+IMB0008074,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-53002.48,-288201.12,-235198.64
+IMB0044462,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-3063.78,-3809.06,-745.28
+IMB0063265,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-2602.76,-64243.74,-61640.98
+IMB0017339,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-146600.52,-894657.66,-748057.14
+IMB0023154,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-488431.43,-1087437.68,-599006.25
+IMB0053669,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-430.68,-13042.97,-12612.29
+IMB0031595,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-8710.96,-22789.72,-14078.76
+IMB0005407,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-12468.04,-53893.38,-41425.34
+IMB0022468,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-27369.35,-77948.98,-50579.63
+IMB0005030,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-12301.6,-48353.0,-36051.4
+IMB0002570,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-10291.75,-55616.03,-45324.28
+IMB0006258,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-154201.11,-667007.1,-512805.99
+IMB0023462,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-17494.48,-274204.82,-256710.34
+IMB0040691,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-58102.64,-440496.46,-382393.82
+IMB0031304,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-19239.87,-58948.09,-39708.22
+IMB0013682,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-2657.71,-6697.34,-4039.63
+IMB0013344,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-97118.82,-540394.92,-443276.1
+IMB0070174,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-7713.89,-139815.84,-132101.95
+IMB0054490,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-13414.35,-332977.7,-319563.35
+IMB0069458,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-10032.4,-245700.8,-235668.4
+IMB0039698,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-3293.97,-33152.19,-29858.22
+IMB0059622,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-793778.25,-3191469.92,-2397691.67
+IMB0033421,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-5284.92,-59670.92,-54386.0
+IMB0073516,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-270.29,-29524.84,-29254.55
+IMB0014393,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-690460.97,-1449334.21,-758873.24
+IMB0063522,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-2132.36,-64465.79,-62333.43
+IMB0014998,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-132145.5,-279634.58,-147489.08
+IMB0012933,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-695115.61,-824106.14,-128990.53
+IMB0012185,E03-VC negativo,Depreciação acumulada superior ao custo,depreciacao_acumulada_brl,-10384.71,-24570.26,-14185.55
+IMB0467431,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-3537.22,-3537.22
+IMB0489346,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-131.1,-131.1
+IMB0424351,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-144.62,-144.62
+IMB0110576,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-8823.17,-8823.17
+IMB0146841,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-1388.01,-1388.01
+IMB0130153,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-765.26,-765.26
+IMB0194174,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2132.34,-2132.34
+IMB0469872,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-514.05,-514.05
+IMB0150703,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-811.91,-811.91
+IMB0137267,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2767.77,-2767.77
+IMB0104567,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2650.97,-2650.97
+IMB0353518,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-266.74,-266.74
+IMB0436747,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2002.14,-2002.14
+IMB0400028,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-1736.13,-1736.13
+IMB0306858,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-302.79,-302.79
+IMB0473329,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-5870.65,-5870.65
+IMB0212723,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-826.44,-826.44
+IMB0469437,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-227.63,-227.63
+IMB0339021,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-892.15,-892.15
+IMB0465207,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-1251.76,-1251.76
+IMB0315751,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-345.35,-345.35
+IMB0406538,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-595.68,-595.68
+IMB0363674,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-645.87,-645.87
+IMB0264846,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-200.29,-200.29
+IMB0464319,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-1699.81,-1699.81
+IMB0297520,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-189.77,-189.77
+IMB0134249,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-12433.21,-12433.21
+IMB0115090,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2155.3,-2155.3
+IMB0502784,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-5218.65,-5218.65
+IMB0292354,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-3147.0,-3147.0
+IMB0110081,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-252.87,-252.87
+IMB0113014,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-10014.07,-10014.07
+IMB0473958,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-3148.12,-3148.12
+IMB0106380,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2328.67,-2328.67
+IMB0360330,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-571.78,-571.78
+IMB0328497,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-1796.51,-1796.51
+IMB0406324,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-491.71,-491.71
+IMB0206382,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-4999.27,-4999.27
+IMB0176100,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-17290.8,-17290.8
+IMB0323070,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-415.09,-415.09
+IMB0176064,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-119.59,-119.59
+IMB0448657,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2557.63,-2557.63
+IMB0098095,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-952.26,-952.26
+IMB0467043,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-5200.45,-5200.45
+IMB0328909,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2109.24,-2109.24
+IMB0248666,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-781.32,-781.32
+IMB0187381,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2084.27,-2084.27
+IMB0196702,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-2861.93,-2861.93
+IMB0477139,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-117.8,-117.8
+IMB0483131,E04-Depreciação em andamento,Depreciação em ativo não disponível para uso,depreciacao_acumulada_brl,0,-544.29,-544.29
+IMB0079369,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-38293.78,-19146.89,19146.89
+IMB0078390,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-22107.79,-11053.89,11053.9
+IMB0075501,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-25978.26,-12989.13,12989.13
+IMB0075931,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-248112.1,-124056.05,124056.05
+IMB0076594,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-14793.64,-7396.82,7396.82
+IMB0080000,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-46364.63,-23182.31,23182.32
+IMB0078535,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-15537.04,-7768.52,7768.52
+IMB0079104,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-31291.92,-15645.96,15645.96
+IMB0078967,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-52308.52,-26154.26,26154.26
+IMB0080086,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-26070.87,-13035.43,13035.44
+IMB0076986,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-50259.98,-25129.99,25129.99
+IMB0076102,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-76792.84,-38396.42,38396.42
+IMB0076404,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-97779.92,-48889.96,48889.96
+IMB0077447,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-66333.57,-33166.78,33166.79
+IMB0089574,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-17744.34,-8872.17,8872.17
+IMB0079338,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-35197.87,-17598.93,17598.94
+IMB0079015,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-17858.58,-8929.29,8929.29
+IMB0077614,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-74969.04,-37484.52,37484.52
+IMB0076528,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-24796.72,-12398.36,12398.36
+IMB0078605,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-21333.72,-10666.86,10666.86
+IMB0077971,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-65407.67,-32703.83,32703.84
+IMB0082022,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-10826.14,-5413.07,5413.07
+IMB0075722,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-64713.43,-32356.71,32356.72
+IMB0079725,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-365646.34,-182823.17,182823.17
+IMB0078468,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-101398.85,-50699.42,50699.43
+IMB0080896,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-16029.19,-8014.59,8014.6
+IMB0078264,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-42457.5,-21228.75,21228.75
+IMB0076700,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-23645.84,-11822.92,11822.92
+IMB0078252,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-96008.32,-48004.16,48004.16
+IMB0089653,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-17808.88,-8904.44,8904.44
+IMB0077344,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-106922.6,-53461.3,53461.3
+IMB0076471,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-11383.65,-5691.82,5691.83
+IMB0081587,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-24328.12,-12164.06,12164.06
+IMB0078825,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-1271867.76,-635933.88,635933.88
+IMB0076282,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-191712.88,-95856.44,95856.44
+IMB0077878,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-20797.31,-10398.65,10398.66
+IMB0081885,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-18636.76,-9318.38,9318.38
+IMB0080779,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-75173.95,-37586.97,37586.98
+IMB0077039,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-25091.92,-12545.96,12545.96
+IMB0077025,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-167745.15,-83872.57,83872.58
+IMB0085518,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-10267.24,-5133.62,5133.62
+IMB0075152,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-45757.15,-22878.57,22878.58
+IMB0077988,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-63355.12,-31677.56,31677.56
+IMB0082132,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-276622.32,-138311.16,138311.16
+IMB0081909,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-11653.07,-5826.53,5826.54
+IMB0078624,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-84737.92,-42368.96,42368.96
+IMB0079781,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-67814.3,-33907.15,33907.15
+IMB0081044,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-20640.06,-10320.03,10320.03
+IMB0076290,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-36795.72,-18397.86,18397.86
+IMB0086241,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-13386.53,-6693.26,6693.27
+IMB0081847,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-16128.99,-8064.49,8064.5
+IMB0081183,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-52968.59,-26484.29,26484.3
+IMB0080764,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-56431.5,-28215.75,28215.75
+IMB0074726,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-91583.52,-45791.76,45791.76
+IMB0074882,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-38007.55,-19003.77,19003.78
+IMB0076908,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-45320.56,-22660.28,22660.28
+IMB0081613,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-11487.72,-5743.86,5743.86
+IMB0081884,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-43982.59,-21991.29,21991.3
+IMB0079226,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-124464.71,-62232.35,62232.36
+IMB0079600,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-36090.2,-18045.1,18045.1
+IMB0075162,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-65790.22,-32895.11,32895.11
+IMB0076456,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-156806.42,-78403.21,78403.21
+IMB0079310,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-27026.73,-13513.36,13513.37
+IMB0079585,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-153975.86,-76987.93,76987.93
+IMB0078037,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-43897.49,-21948.74,21948.75
+IMB0075369,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-193444.02,-96722.01,96722.01
+IMB0081412,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-14570.35,-7285.17,7285.18
+IMB0078714,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-39060.86,-19530.43,19530.43
+IMB0076129,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-12695.45,-6347.72,6347.73
+IMB0078828,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-30625.14,-15312.57,15312.57
+IMB0081251,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-35778.15,-17889.07,17889.08
+IMB0077348,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-119453.26,-59726.63,59726.63
+IMB0074764,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-19405.83,-9702.91,9702.92
+IMB0080110,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-501948.78,-250974.39,250974.39
+IMB0087686,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-18561.18,-9280.59,9280.59
+IMB0074984,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-63021.9,-31510.95,31510.95
+IMB0089611,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-14138.52,-7069.26,7069.26
+IMB0085198,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-14110.5,-7055.25,7055.25
+IMB0076144,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-45760.66,-22880.33,22880.33
+IMB0081348,E05-Taxa incorreta,Depreciação calculada com metade da taxa,depreciacao_acumulada_brl,-59803.74,-29901.87,29901.87
+IMB0508115,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,138588.86,1385888.6,1247299.74
+IMB0195729,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,81320.81,813208.1,731887.29
+IMB0517332,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,77843.21,778432.1,700588.89
+IMB0275853,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,51754.65,517546.5,465791.85
+IMB0124772,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,170420.5,1704205.0,1533784.5
+IMB0365342,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,64430.73,644307.3,579876.57
+IMB0129599,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,95824.69,958246.9,862422.21
+IMB0176144,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,175170.26,1751702.6,1576532.34
+IMB0196757,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,66929.12,669291.2,602362.08
+IMB0444976,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,69815.93,698159.3,628343.37
+IMB0197980,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,264851.31,2648513.1,2383661.79
+IMB0291215,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,91418.07,914180.7,822762.63
+IMB0433130,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,61274.6,612746.0,551471.4
+IMB0199610,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,107189.13,1071891.3,964702.17
+IMB0123201,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,58865.96,588659.6,529793.64
+IMB0110576,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,110576.26,1105762.6,995186.34
+IMB0361888,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,181528.96,1815289.6,1633760.64
+IMB0436550,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,74802.44,748024.4,673221.96
+IMB0209667,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,204327.53,2043275.3,1838947.77
+IMB0287594,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,73980.05,739800.5,665820.45
+IMB0105423,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,372853.57,3728535.7,3355682.13
+IMB0089950,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,105829.02,1058290.2,952461.18
+IMB0172881,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,296672.1,2966721.0,2670048.9
+IMB0160045,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,60953.57,609535.7,548582.13
+IMB0126837,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,75688.05,756880.5,681192.45
+IMB0431278,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,75986.63,759866.3,683879.67
+IMB0140435,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,83400.51,834005.1,750604.59
+IMB0247836,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,59635.37,596353.7,536718.33
+IMB0299987,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,160487.49,1604874.9,1444387.41
+IMB0136170,E06-Digitação x10,Custo lançado com um zero a mais,custo_historico_brl,82538.05,825380.5,742842.45
+IMB0036557,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR028,0.0
+IMB0397352,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR028,0.0
+IMB0355831,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR028,0.0
+IMB0272353,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR020,0.0
+IMB0467267,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR008,0.0
+IMB0226850,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR020,0.0
+IMB0358765,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR029,0.0
+IMB0011842,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR002,0.0
+IMB0356788,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR005,0.0
+IMB0052740,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR021,0.0
+IMB0422986,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR009,0.0
+IMB0438768,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR007,0.0
+IMB0080710,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR020,0.0
+IMB0517469,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR011,0.0
+IMB0451452,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR024,0.0
+IMB0292313,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR012,0.0
+IMB0126652,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR017,0.0
+IMB0340825,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR013,0.0
+IMB0433731,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR014,0.0
+IMB0123535,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR017,0.0
+IMB0429419,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR012,0.0
+IMB0024628,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR010,0.0
+IMB0317211,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR023,0.0
+IMB0009862,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR010,0.0
+IMB0040080,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR016,0.0
+IMB0411544,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR012,0.0
+IMB0002511,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR020,0.0
+IMB0024194,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR025,0.0
+IMB0166457,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR026,0.0
+IMB0181383,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR018,0.0
+IMB0064610,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR027,0.0
+IMB0182502,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR005,0.0
+IMB0407623,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR004,0.0
+IMB0321648,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR018,0.0
+IMB0349002,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR020,0.0
+IMB0308768,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR002,0.0
+IMB0080516,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR012,0.0
+IMB0361895,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR029,0.0
+IMB0299779,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR004,0.0
+IMB0374301,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR028,0.0
+IMB0491443,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR022,0.0
+IMB0122731,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR006,0.0
+IMB0033022,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR009,0.0
+IMB0302383,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR026,0.0
+IMB0113215,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR009,0.0
+IMB0327381,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR028,0.0
+IMB0114841,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR012,0.0
+IMB0512808,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR025,0.0
+IMB0275135,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR027,0.0
+IMB0458034,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR013,0.0
+IMB0024316,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR018,0.0
+IMB0078792,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR012,0.0
+IMB0324778,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR028,0.0
+IMB0491478,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR001,0.0
+IMB0248864,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR008,0.0
+IMB0109610,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR015,0.0
+IMB0086976,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR024,0.0
+IMB0340217,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR021,0.0
+IMB0089128,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR002,0.0
+IMB0257091,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR017,0.0
+IMB0148154,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR025,0.0
+IMB0077278,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR008,0.0
+IMB0123670,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR017,0.0
+IMB0191472,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR021,0.0
+IMB0155615,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR025,0.0
+IMB0223759,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR025,0.0
+IMB0329044,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR022,0.0
+IMB0003902,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR022,0.0
+IMB0247580,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR019,0.0
+IMB0217252,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR023,0.0
+IMB0021297,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR004,0.0
+IMB0305537,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR005,0.0
+IMB0156699,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR013,0.0
+IMB0196560,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR016,0.0
+IMB0345713,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR007,0.0
+IMB0146797,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR001,0.0
+IMB0416216,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR009,0.0
+IMB0511208,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR011,0.0
+IMB0198713,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR012,0.0
+IMB0251988,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR015,0.0
+IMB0138231,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR018,0.0
+IMB0216502,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR008,0.0
+IMB0000281,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR002,0.0
+IMB0429654,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR021,0.0
+IMB0293404,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR006,0.0
+IMB0497320,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR006,0.0
+IMB0335882,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR027,0.0
+IMB0371760,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR005,0.0
+IMB0355464,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR005,0.0
+IMB0452369,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR016,0.0
+IMB0462517,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR018,0.0
+IMB0390002,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR020,0.0
+IMB0220443,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR001,0.0
+IMB0010693,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR021,0.0
+IMB0376862,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR030,0.0
+IMB0048399,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR015,0.0
+IMB0008156,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR022,0.0
+IMB0367671,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR018,0.0
+IMB0040366,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR021,0.0
+IMB0161606,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR021,0.0
+IMB0411663,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR016,0.0
+IMB0390487,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR017,0.0
+IMB0195892,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR005,0.0
+IMB0116373,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR019,0.0
+IMB0056159,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR007,0.0
+IMB0348783,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR015,0.0
+IMB0230469,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR019,0.0
+IMB0165332,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR006,0.0
+IMB0099649,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR029,0.0
+IMB0106009,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR012,0.0
+IMB0312984,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR028,0.0
+IMB0250151,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR008,0.0
+IMB0187128,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR003,0.0
+IMB0507081,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR007,0.0
+IMB0122241,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR002,0.0
+IMB0371651,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR021,0.0
+IMB0466979,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR026,0.0
+IMB0167113,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR008,0.0
+IMB0085964,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR019,0.0
+IMB0301503,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR030,0.0
+IMB0068950,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR010,0.0
+IMB0049970,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR001,0.0
+IMB0362359,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR022,0.0
+IMB0123680,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR030,0.0
+IMB0445767,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR024,0.0
+IMB0050868,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR026,0.0
+IMB0461274,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR029,0.0
+IMB0095701,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR025,0.0
+IMB0159472,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR001,0.0
+IMB0148411,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR003,0.0
+IMB0129595,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR011,0.0
+IMB0410995,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR011,0.0
+IMB0433254,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR018,0.0
+IMB0485144,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR013,0.0
+IMB0151421,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR004,0.0
+IMB0178084,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR008,0.0
+IMB0290289,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR06,USR005,0.0
+IMB0107056,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR008,0.0
+IMB0074971,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR02,USR017,0.0
+IMB0135315,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR04,USR002,0.0
+IMB0416897,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR001,0.0
+IMB0446451,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR030,0.0
+IMB0315332,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR008,0.0
+IMB0150842,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR025,0.0
+IMB0386309,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR009,0.0
+IMB0185573,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR08,USR012,0.0
+IMB0360273,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR05,USR011,0.0
+IMB0356490,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR03,USR001,0.0
+IMB0439957,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR01,USR016,0.0
+IMB0504953,E07-Segregação de funções,Lançamento aprovado pelo próprio usuário,aprovador,APR07,USR009,0.0
+IMB0060228,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR06,0.0
+IMB0010450,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR01,0.0
+IMB0039324,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR03,0.0
+IMB0517866,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR06,0.0
+IMB0007229,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR02,0.0
+IMB0518063,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR03,0.0
+IMB0008617,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR05,0.0
+IMB0008812,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR07,0.0
+IMB0517951,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR08,0.0
+IMB0018850,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR01,0.0
+IMB0070083,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR05,0.0
+IMB0010118,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR03,0.0
+IMB0030029,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR08,0.0
+IMB0025299,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR05,0.0
+IMB0028623,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR05,0.0
+IMB0066561,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR05,0.0
+IMB0070976,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR03,0.0
+IMB0006918,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR03,0.0
+IMB0015930,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR03,0.0
+IMB0006041,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR06,0.0
+IMB0070717,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR03,0.0
+IMB0005925,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR02,0.0
+IMB0007186,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR04,0.0
+IMB0008349,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR02,0.0
+IMB0005497,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR07,0.0
+IMB0053353,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR03,0.0
+IMB0072003,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR08,0.0
+IMB0015506,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR01,0.0
+IMB0009397,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR07,0.0
+IMB0066758,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR06,0.0
+IMB0006650,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR01,0.0
+IMB0021580,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR02,0.0
+IMB0063075,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR01,0.0
+IMB0066206,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR04,0.0
+IMB0518024,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR02,0.0
+IMB0022539,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR04,0.0
+IMB0003210,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR03,0.0
+IMB0008764,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR05,0.0
+IMB0015346,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR06,0.0
+IMB0008792,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR04,0.0
+IMB0002902,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR01,0.0
+IMB0055364,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR06,0.0
+IMB0058209,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR04,0.0
+IMB0009117,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR08,0.0
+IMB0025496,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR08,0.0
+IMB0060702,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR08,0.0
+IMB0057987,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR08,0.0
+IMB0003649,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR04,0.0
+IMB0517818,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR08,0.0
+IMB0057322,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR06,0.0
+IMB0065183,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR01,0.0
+IMB0063878,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR07,0.0
+IMB0040138,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR01,APR07,0.0
+IMB0056472,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR06,0.0
+IMB0039998,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR08,0.0
+IMB0518052,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR08,0.0
+IMB0015678,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR03,0.0
+IMB0007059,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR03,0.0
+IMB0009023,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR02,APR02,0.0
+IMB0060934,E08-Alçada,Valor acima de R$ 5 mi aprovado por gerente,aprovador,DIR03,APR04,0.0
+IMB0518381,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,5000000.0
+IMB0518382,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,10000000.0
+IMB0518383,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,5000000.0
+IMB0518384,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,10000000.0
+IMB0518385,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0518386,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,8000000.0
+IMB0518387,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,8000000.0
+IMB0518388,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,8000000.0
+IMB0518389,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0518390,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,20000000.0
+IMB0518391,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0518392,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0518393,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,12000000.0
+IMB0518394,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,10000000.0
+IMB0518395,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,10000000.0
+IMB0518396,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,8000000.0
+IMB0518397,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,8000000.0
+IMB0518398,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,8000000.0
+IMB0518399,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0518400,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,10000000.0
+IMB0518401,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,5000000.0
+IMB0518402,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,20000000.0
+IMB0518403,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0518404,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,12000000.0
+IMB0518405,E09-Lançamento manual suspeito,"OPEX capitalizado: valor redondo, fim de semana, usuário genérico",,,,15000000.0
+IMB0366640,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0108354,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0340585,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0329331,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0230363,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0232685,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0167449,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0064914,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0303588,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0306723,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0245352,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0108237,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0357292,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0346272,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0332293,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0186443,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0464319,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0311202,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0451960,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0331653,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0010746,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0425759,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0447768,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0479140,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0476109,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0425003,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0420353,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0396460,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0329522,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0472286,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0070255,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0067009,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0517215,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0068769,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0199282,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0315254,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0068240,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0351188,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0374897,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
+IMB0314812,E10-Entidade/UGC incoerente,Ativo de Peregrino lançado na Prio Bravo,entidade,Prio Tigris,Prio Bravo,0.0
